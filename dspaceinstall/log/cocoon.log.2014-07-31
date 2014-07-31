@@ -1,0 +1,72 @@
+2014-07-31 10:00:23,831 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-07-31 10:00:23,870 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/?pipelinehash=-3983196624749804755_T-Navigation--5868902345035488438_T-Include-resource://aspects/ViewArtifacts/dspace-home.xml_T-Include-file:///usr/dspaceinstall/config/news-xmlui.xml
+2014-07-31 10:00:23,871 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/?pipelinehash=-3136510311920223329_T-Navigation--5868902345035488438_T-CommunityBrowser-578614924677317992
+2014-07-31 10:00:23,877 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/7/?pipelinehash=-7881053630253774859_T-Navigation--5868902345035488438_T-SidebarFacetsTransformer-0_T-FrontPageFeeds-1_T-SiteRecentSubmissions-0
+2014-07-31 10:00:24,289 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/?pipelinehash=5314580209580965070_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2014-07-31 10:00:24,290 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/?pipelinehash=4999253780898466953
+2014-07-31 10:00:24,290 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/
+2014-07-31 10:00:24,290 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/
+2014-07-31 10:00:24,291 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/
+2014-07-31 10:00:24,291 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/_T-PageNotFound--2223765811167872118
+2014-07-31 10:00:24,345 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?en___S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-07-31 10:00:24,369 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,372 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,375 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,378 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,381 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,385 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,388 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,391 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,393 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,395 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,397 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,399 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,402 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,404 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,406 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,408 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,410 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_en.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,412 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,415 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,417 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,419 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,421 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,424 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,426 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,428 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,430 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,432 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,434 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,437 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,439 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,441 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,443 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-07-31 10:00:24,514 INFO  cocoon.access  - '' Processed by Apache Cocoon in 1.367 seconds.
+2014-07-31 10:00:24,678 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/helper.css?minify
+2014-07-31 10:00:24,686 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/jquery-ui-1.8.15.custom.css?minify
+2014-07-31 10:00:24,686 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/style.css?minify
+2014-07-31 10:00:24,685 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/base.css?minify
+2014-07-31 10:00:24,685 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/reset.css?minify
+2014-07-31 10:00:24,689 INFO  cocoon.access  - 'themes/Mirage/lib/css/helper.css' Processed by Apache Cocoon in 59 milliseconds.
+2014-07-31 10:00:24,701 INFO  cocoon.access  - 'themes/Mirage/lib/css/base.css' Processed by Apache Cocoon in 88 milliseconds.
+2014-07-31 10:00:24,706 INFO  cocoon.access  - 'themes/Mirage/lib/css/reset.css' Processed by Apache Cocoon in 79 milliseconds.
+2014-07-31 10:00:24,707 INFO  cocoon.access  - 'themes/Mirage/lib/css/style.css' Processed by Apache Cocoon in 74 milliseconds.
+2014-07-31 10:00:24,708 INFO  cocoon.access  - 'themes/Mirage/lib/css/jquery-ui-1.8.15.custom.css' Processed by Apache Cocoon in 75 milliseconds.
+2014-07-31 10:00:24,685 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/authority-control.css?minify
+2014-07-31 10:00:24,711 INFO  cocoon.access  - 'themes/Mirage/lib/css/authority-control.css' Processed by Apache Cocoon in 56 milliseconds.
+2014-07-31 10:00:24,902 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/media.css?minify
+2014-07-31 10:00:24,904 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/js/modernizr-1.7.min.js?minify
+2014-07-31 10:00:24,908 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/js/jquery-ui-1.8.15.custom.min.js?minify
+2014-07-31 10:00:24,915 INFO  cocoon.access  - 'themes/Mirage/lib/js/modernizr-1.7.min.js' Processed by Apache Cocoon in 52 milliseconds.
+2014-07-31 10:00:24,916 INFO  cocoon.access  - 'themes/Mirage/lib/css/media.css' Processed by Apache Cocoon in 49 milliseconds.
+2014-07-31 10:00:24,926 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/handheld.css?minify
+2014-07-31 10:00:24,928 INFO  cocoon.access  - 'themes/Mirage/lib/css/handheld.css' Processed by Apache Cocoon in 28 milliseconds.
+2014-07-31 10:00:24,954 INFO  cocoon.access  - 'themes/Mirage/lib/js/jquery-ui-1.8.15.custom.min.js' Processed by Apache Cocoon in 89 milliseconds.
+2014-07-31 10:00:25,001 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/print.css?minify
+2014-07-31 10:00:25,004 INFO  cocoon.access  - 'themes/Mirage/lib/css/print.css' Processed by Apache Cocoon in 14 milliseconds.
+2014-07-31 10:00:25,107 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Mirage/images/dspace-logo-only.png
+2014-07-31 10:00:25,111 INFO  cocoon.access  - 'themes/Mirage/images/dspace-logo-only.png' Processed by Apache Cocoon in 32 milliseconds.
+2014-07-31 10:00:25,115 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Mirage/images/@mirelogo-small.png
+2014-07-31 10:00:25,116 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/static/icons/feed.png
+2014-07-31 10:00:25,118 INFO  cocoon.access  - 'static/icons/feed.png' Processed by Apache Cocoon in 28 milliseconds.
+2014-07-31 10:00:25,122 INFO  cocoon.access  - 'themes/Mirage/images/@mirelogo-small.png' Processed by Apache Cocoon in 30 milliseconds.

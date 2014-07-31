@@ -1,0 +1,42 @@
+2014-05-27 13:55:00,978 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=dateIssued.year_sort+asc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=dateIssued.year:[*+TO+*]&fq=read:(g0)&version=2&rows=1} hits=2 status=0 QTime=90 
+2014-05-27 13:55:01,008 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=dateIssued.year_sort+desc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=dateIssued.year:[*+TO+*]&fq=read:(g0)&version=2&rows=1} hits=2 status=0 QTime=1 
+2014-05-27 13:55:01,054 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={facet=true&facet.mincount=1&facet.offset=0&f.subject_tax_0_filter.facet.sort=count&wt=javabin&version=2&rows=0&f.subject_tax_0_filter.facet.limit=11&start=0&f.author_filter.facet.limit=11&q=*:*&f.author_filter.facet.sort=count&facet.field=author_filter&facet.field=subject_tax_0_filter&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=read:(g0)} hits=19 status=0 QTime=39 
+2014-05-27 13:55:01,060 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=dc.date.accessioned_dt+desc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=search.resourcetype:2&fq=read:(g0)&version=2&rows=5} hits=2 status=0 QTime=1 
+2014-05-27 13:55:16,185 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=bi_sort_3_sort+desc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=search.resourcetype:2&fq=read:(g0)&version=2&rows=20} hits=2 status=0 QTime=1 
+2014-05-27 13:55:16,195 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=dateIssued.year_sort+asc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=dateIssued.year:[*+TO+*]&fq=read:(g0)&version=2&rows=1} hits=2 status=0 QTime=2 
+2014-05-27 13:55:16,202 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={sort=dateIssued.year_sort+desc&start=0&q=*:*&wt=javabin&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=dateIssued.year:[*+TO+*]&fq=read:(g0)&version=2&rows=1} hits=2 status=0 QTime=1 
+2014-05-27 13:55:16,223 INFO  org.apache.solr.core.SolrCore @ [search] webapp=/solr path=/select params={facet=true&sort=score+desc&facet.offset=0&facet.mincount=1&f.author_filter.facet.offset=0&wt=javabin&version=2&rows=0&f.subject_filter.facet.sort=count&start=0&f.author_filter.facet.limit=11&q=*:*&f.subject_filter.facet.offset=0&f.subject_filter.facet.limit=11&f.author_filter.facet.sort=count&facet.field=author_filter&facet.field=subject_filter&fq=NOT(withdrawn:true)&fq=NOT(discoverable:false)&fq=read:(g0)} hits=19 status=0 QTime=1 
+2014-05-27 14:05:17,870 INFO  org.apache.solr.core.CoreContainer @ Shutting down CoreContainer instance=2104183101
+2014-05-27 14:05:17,926 INFO  org.apache.solr.core.SolrCore @ [oai]  CLOSING SolrCore org.apache.solr.core.SolrCore@444b97a7
+2014-05-27 14:05:18,065 INFO  org.apache.solr.update.UpdateHandler @ closing DirectUpdateHandler2{commits=0,autocommit maxDocs=10000,autocommit maxTime=10000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0}
+2014-05-27 14:05:18,066 INFO  org.apache.solr.update.SolrCoreState @ Closing SolrCoreState
+2014-05-27 14:05:18,066 INFO  org.apache.solr.update.DefaultSolrCoreState @ SolrCoreState ref count has reached 0 - closing IndexWriter
+2014-05-27 14:05:18,066 INFO  org.apache.solr.update.DefaultSolrCoreState @ closing IndexWriter with IndexWriterCloser
+2014-05-27 14:05:18,094 INFO  org.apache.solr.core.SolrCore @ [oai] Closing main searcher on request.
+2014-05-27 14:05:18,096 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+2014-05-27 14:05:18,161 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/oai/data [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/oai/data;done=false>>]
+2014-05-27 14:05:18,161 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/oai/data
+2014-05-27 14:05:18,177 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/oai/data/index [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/oai/data/index;done=false>>]
+2014-05-27 14:05:18,177 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/oai/data/index
+2014-05-27 14:05:18,189 INFO  org.apache.solr.core.SolrCore @ [statistics]  CLOSING SolrCore org.apache.solr.core.SolrCore@7bf6cdc9
+2014-05-27 14:05:18,231 INFO  org.apache.solr.update.UpdateHandler @ closing DirectUpdateHandler2{commits=1,autocommit maxDocs=10000,autocommit maxTime=900000ms,autocommits=1,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=8,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0}
+2014-05-27 14:05:18,232 INFO  org.apache.solr.update.SolrCoreState @ Closing SolrCoreState
+2014-05-27 14:05:18,232 INFO  org.apache.solr.update.DefaultSolrCoreState @ SolrCoreState ref count has reached 0 - closing IndexWriter
+2014-05-27 14:05:18,233 INFO  org.apache.solr.update.DefaultSolrCoreState @ closing IndexWriter with IndexWriterCloser
+2014-05-27 14:05:18,531 INFO  org.apache.solr.core.SolrCore @ [statistics] Closing main searcher on request.
+2014-05-27 14:05:18,553 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+2014-05-27 14:05:18,553 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/statistics/data [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/statistics/data;done=false>>]
+2014-05-27 14:05:18,553 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/statistics/data
+2014-05-27 14:05:18,553 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/statistics/data/index [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/statistics/data/index;done=false>>]
+2014-05-27 14:05:18,553 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/statistics/data/index
+2014-05-27 14:05:18,554 INFO  org.apache.solr.core.SolrCore @ [search]  CLOSING SolrCore org.apache.solr.core.SolrCore@4c128f66
+2014-05-27 14:05:18,582 INFO  org.apache.solr.update.UpdateHandler @ closing DirectUpdateHandler2{commits=0,autocommit maxDocs=10000,autocommit maxTime=10000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0}
+2014-05-27 14:05:18,583 INFO  org.apache.solr.update.SolrCoreState @ Closing SolrCoreState
+2014-05-27 14:05:18,583 INFO  org.apache.solr.update.DefaultSolrCoreState @ SolrCoreState ref count has reached 0 - closing IndexWriter
+2014-05-27 14:05:18,583 INFO  org.apache.solr.update.DefaultSolrCoreState @ closing IndexWriter with IndexWriterCloser
+2014-05-27 14:05:18,676 INFO  org.apache.solr.core.SolrCore @ [search] Closing main searcher on request.
+2014-05-27 14:05:18,683 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+2014-05-27 14:05:18,683 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/search/data [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/search/data;done=false>>]
+2014-05-27 14:05:18,683 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/search/data
+2014-05-27 14:05:18,683 INFO  org.apache.solr.core.CachingDirectoryFactory @ looking to close /usr/dspaceinstall/solr/search/data/index [CachedDir<<refCount=0;path=/usr/dspaceinstall/solr/search/data/index;done=false>>]
+2014-05-27 14:05:18,683 INFO  org.apache.solr.core.CachingDirectoryFactory @ Closing directory: /usr/dspaceinstall/solr/search/data/index

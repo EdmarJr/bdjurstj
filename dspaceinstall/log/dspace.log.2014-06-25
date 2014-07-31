@@ -1,0 +1,20 @@
+2014-06-25 10:19:14,201 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:view_community_list:
+2014-06-25 10:19:14,241 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-25 10:19:15,896 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=603373A4F435A09BB928DC773A8C6B90:ip_addr=10.21.2.100:browse_mini:
+2014-06-25 10:19:15,936 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-25 10:19:16,498 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-25 10:19:18,253 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=603373A4F435A09BB928DC773A8C6B90:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-25 10:19:18,368 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-06-25 10:19:18,378 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=603373A4F435A09BB928DC773A8C6B90:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-25 10:19:19,318 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-06-25 10:19:19,332 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-06-25 10:20:55,859 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-25 10:21:00,385 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:failed_login:email=bdjur@stj.jus.br, realm=null, result=2
+2014-06-25 10:21:31,695 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-25 10:21:31,704 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-06-25 10:21:31,976 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:update_eperson:eperson_id=3
+2014-06-25 10:21:31,976 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:login:type=explicit
+2014-06-25 10:21:32,125 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:view_community_list:
+2014-06-25 10:21:32,125 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-25 10:21:32,204 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=DD8343C02EDBA5CDE851552C8A097379:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-25 10:21:32,501 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

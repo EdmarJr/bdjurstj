@@ -1,0 +1,224 @@
+2014-05-20 15:01:07,417 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=92B78DAB2938CAD1C8D11D488B7711FE:ip_addr=10.21.0.78:browse_mini:
+2014-05-20 15:01:07,539 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-20 15:01:57,529 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=92B78DAB2938CAD1C8D11D488B7711FE:ip_addr=10.21.0.78:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-20 15:01:57,618 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=92B78DAB2938CAD1C8D11D488B7711FE:ip_addr=10.21.0.78:authenticate:type=PasswordAuthentication
+2014-05-20 15:01:57,620 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=92B78DAB2938CAD1C8D11D488B7711FE:ip_addr=10.21.0.78:update_eperson:eperson_id=1
+2014-05-20 15:01:57,622 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=92B78DAB2938CAD1C8D11D488B7711FE:ip_addr=10.21.0.78:login:type=explicit
+2014-05-20 15:01:57,630 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=4C6226C26CFBB3E54D6F9F01F6F25B61:ip_addr=10.21.0.78:view_mydspace:
+2014-05-20 15:02:22,054 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=4C6226C26CFBB3E54D6F9F01F6F25B61:ip_addr=10.21.0.78:view_own_submissions:count=2
+2014-05-20 15:03:00,459 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=4C6226C26CFBB3E54D6F9F01F6F25B61:ip_addr=10.21.0.78:view_mydspace:
+2014-05-20 15:03:06,680 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ edmarfagunde@gmail.com:session_id=4C6226C26CFBB3E54D6F9F01F6F25B61:ip_addr=10.21.0.78:view_community_list:
+2014-05-20 16:53:12,312 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6C7391ACDD3BCB835F499C0C241CF366:ip_addr=10.21.0.78:browse_mini:
+2014-05-20 16:53:12,328 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-20 16:53:19,475 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3AEF3E87E937C19218159E92815933D6:ip_addr=10.21.0.78:view_community_list:
+2014-05-20 16:53:19,476 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-20 16:53:35,416 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=3AEF3E87E937C19218159E92815933D6:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-20 16:53:43,535 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=3AEF3E87E937C19218159E92815933D6:ip_addr=10.21.0.78:view_item:handle=123456789/3
+2014-05-20 17:15:51,223 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6C7391ACDD3BCB835F499C0C241CF366:ip_addr=10.21.0.78:browse_mini:
+2014-05-20 17:15:51,238 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-20 19:26:25,728 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=B2C026F1C104CED6B30F466983FBBFD3:ip_addr=10.21.0.78:view_community_list:
+2014-05-20 19:26:29,478 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=B2C026F1C104CED6B30F466983FBBFD3:ip_addr=10.21.0.78:browse_mini:
+2014-05-20 19:26:29,494 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-20 19:39:50,229 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=57203859FE05BCF54C2DA3B7BC3E81A9:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:39:50,245 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-20 19:40:06,375 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=57203859FE05BCF54C2DA3B7BC3E81A9:ip_addr=10.21.1.112:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-20 19:40:06,401 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=57203859FE05BCF54C2DA3B7BC3E81A9:ip_addr=10.21.1.112:authenticate:type=PasswordAuthentication
+2014-05-20 19:40:06,423 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=57203859FE05BCF54C2DA3B7BC3E81A9:ip_addr=10.21.1.112:update_eperson:eperson_id=1
+2014-05-20 19:40:06,425 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=57203859FE05BCF54C2DA3B7BC3E81A9:ip_addr=10.21.1.112:login:type=explicit
+2014-05-20 19:40:06,434 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_mydspace:
+2014-05-20 19:40:25,084 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community_list:
+2014-05-20 19:40:56,316 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_community:community_id=2,handle=123456789/5
+2014-05-20 19:40:56,359 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_community:community_id=2
+2014-05-20 19:40:56,366 INFO  org.dspace.event.EventManager @ 
+2014-05-20 19:40:56,525 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/5 to Index
+2014-05-20 19:40:56,534 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:40:56,535 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:40:56,567 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:40:56,584 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:41:08,350 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=2,handle=123456789/6
+2014-05-20 19:41:08,352 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=2
+2014-05-20 19:41:08,839 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-20 19:41:34,089 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=3,handle=123456789/7
+2014-05-20 19:41:34,092 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=3
+2014-05-20 19:41:34,132 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-20 19:42:28,014 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=2
+2014-05-20 19:42:28,016 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=2
+2014-05-20 19:42:28,021 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=3
+2014-05-20 19:42:28,450 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-20 19:42:51,358 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=3
+2014-05-20 19:42:51,843 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-20 19:42:59,822 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=2
+2014-05-20 19:43:11,160 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=3
+2014-05-20 19:43:11,197 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-20 19:43:11,222 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-05-20 19:43:11,223 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 19:43:11,247 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@7a12df32: 3
+2014-05-20 19:43:11,408 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-05-20 19:43:52,023 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:43:52,028 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:43:52,041 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:43:52,072 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:43:58,045 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=4,handle=123456789/8
+2014-05-20 19:43:58,046 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=4
+2014-05-20 19:43:58,094 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-20 19:43:59,653 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=3
+2014-05-20 19:43:59,654 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=3
+2014-05-20 19:43:59,658 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=4
+2014-05-20 19:43:59,688 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-20 19:44:26,409 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=4
+2014-05-20 19:44:26,447 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-20 19:44:28,458 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=3
+2014-05-20 19:44:31,842 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=4
+2014-05-20 19:44:31,876 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-20 19:44:31,890 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=4
+2014-05-20 19:44:31,891 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 19:44:31,902 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@ba6ab746: 3
+2014-05-20 19:44:31,951 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=4
+2014-05-20 19:44:39,830 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:44:39,835 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:44:39,848 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:44:39,880 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:44:44,157 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=5,handle=123456789/9
+2014-05-20 19:44:44,158 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=5
+2014-05-20 19:44:44,195 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-20 19:44:54,711 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=4
+2014-05-20 19:44:54,712 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=4
+2014-05-20 19:44:54,717 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=5
+2014-05-20 19:44:54,747 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-20 19:45:09,431 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=5
+2014-05-20 19:45:09,485 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-20 19:45:10,821 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=4
+2014-05-20 19:45:13,187 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=5
+2014-05-20 19:45:13,216 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-20 19:45:13,240 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=5
+2014-05-20 19:45:13,241 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 19:45:13,266 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@e99b402a: 3
+2014-05-20 19:45:13,316 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=5
+2014-05-20 19:45:18,861 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:45:18,867 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:45:18,878 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:45:18,905 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:45:36,897 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=6,handle=123456789/10
+2014-05-20 19:45:36,898 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=6
+2014-05-20 19:45:36,944 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-20 19:45:38,009 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=5
+2014-05-20 19:45:38,010 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=5
+2014-05-20 19:45:38,014 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=6
+2014-05-20 19:45:38,041 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-20 19:45:51,017 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=6
+2014-05-20 19:45:51,077 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-20 19:45:52,113 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=5
+2014-05-20 19:45:54,587 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=6
+2014-05-20 19:45:54,623 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-20 19:45:54,642 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=6
+2014-05-20 19:45:54,643 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 19:45:54,658 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@3d31d339: 3
+2014-05-20 19:45:54,712 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=6
+2014-05-20 19:45:59,232 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:45:59,239 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:45:59,251 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:45:59,278 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:51:49,012 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=7,handle=123456789/11
+2014-05-20 19:51:49,014 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=7
+2014-05-20 19:51:49,102 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-20 19:59:07,732 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=6
+2014-05-20 19:59:07,733 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=6
+2014-05-20 19:59:07,737 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=7
+2014-05-20 19:59:07,780 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-20 19:59:29,430 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=7
+2014-05-20 19:59:29,501 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-20 19:59:30,650 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=6
+2014-05-20 19:59:32,403 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=7
+2014-05-20 19:59:32,424 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-20 19:59:32,436 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=7
+2014-05-20 19:59:32,437 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 19:59:32,446 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@f851c4ee: 3
+2014-05-20 19:59:32,494 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=7
+2014-05-20 19:59:37,315 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:59:37,323 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 19:59:37,333 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 19:59:37,358 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 19:59:48,811 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=8,handle=123456789/12
+2014-05-20 19:59:48,813 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=8
+2014-05-20 19:59:48,846 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-20 19:59:50,277 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=7
+2014-05-20 19:59:50,279 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=7
+2014-05-20 19:59:50,282 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=8
+2014-05-20 19:59:50,316 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-20 20:00:08,930 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=8
+2014-05-20 20:00:08,961 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-20 20:00:10,734 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=7
+2014-05-20 20:00:12,905 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=8
+2014-05-20 20:00:12,929 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-20 20:00:12,941 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=8
+2014-05-20 20:00:12,942 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 20:00:12,951 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@fa3fe450: 3
+2014-05-20 20:00:12,984 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=8
+2014-05-20 20:00:14,527 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:00:14,541 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 20:00:14,552 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 20:00:14,583 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:00:24,529 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=9,handle=123456789/13
+2014-05-20 20:00:24,532 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=9
+2014-05-20 20:00:24,563 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-20 20:00:25,735 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=8
+2014-05-20 20:00:25,736 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=8
+2014-05-20 20:00:25,740 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=9
+2014-05-20 20:00:25,763 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-20 20:00:36,597 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=9
+2014-05-20 20:00:36,631 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-20 20:00:37,772 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=8
+2014-05-20 20:00:39,908 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=9
+2014-05-20 20:00:39,933 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-20 20:00:39,945 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=9
+2014-05-20 20:00:39,947 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 20:00:39,956 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@9108c542: 3
+2014-05-20 20:00:40,007 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=9
+2014-05-20 20:00:55,572 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:00:55,614 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 20:00:55,626 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 20:00:55,657 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:01:04,536 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=10,handle=123456789/14
+2014-05-20 20:01:04,537 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=10
+2014-05-20 20:01:04,578 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/14 to Index
+2014-05-20 20:01:05,730 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=9
+2014-05-20 20:01:05,731 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=9
+2014-05-20 20:01:05,734 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=10
+2014-05-20 20:01:05,761 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/14 to Index
+2014-05-20 20:01:17,039 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=10
+2014-05-20 20:01:17,087 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/14 to Index
+2014-05-20 20:01:18,525 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=9
+2014-05-20 20:01:20,334 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=10
+2014-05-20 20:01:20,369 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/14 to Index
+2014-05-20 20:01:20,381 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=10
+2014-05-20 20:01:20,382 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 20:01:20,406 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@d13258ea: 3
+2014-05-20 20:01:20,455 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=10
+2014-05-20 20:01:24,555 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:01:24,566 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 20:01:24,578 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 20:01:24,606 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:01:35,090 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_collection:collection_id=11,handle=123456789/15
+2014-05-20 20:01:35,092 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:add_collection:community_id=2,collection_id=11
+2014-05-20 20:01:35,128 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/15 to Index
+2014-05-20 20:01:36,127 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:create_group:group_id=10
+2014-05-20 20:01:36,128 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=10
+2014-05-20 20:01:36,132 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=11
+2014-05-20 20:01:36,174 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/15 to Index
+2014-05-20 20:01:44,748 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=11
+2014-05-20 20:01:44,776 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/15 to Index
+2014-05-20 20:01:46,348 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_group:group_id=10
+2014-05-20 20:02:09,492 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:update_collection:collection_id=11
+2014-05-20 20:02:09,515 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/15 to Index
+2014-05-20 20:02:09,533 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=11
+2014-05-20 20:02:09,534 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 20:02:09,544 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@6e53deab: 3
+2014-05-20 20:02:09,575 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=11
+2014-05-20 20:02:13,096 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:02:13,108 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_mini:
+2014-05-20 20:02:13,118 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-20 20:02:13,144 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_community:community_id=2
+2014-05-20 20:02:24,448 INFO  org.dspace.app.webui.servlet.HandleServlet @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-05-20 20:02:24,449 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:browse_by_item:
+2014-05-20 20:02:24,460 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@7a12df32: 3
+2014-05-20 20:02:24,491 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=E0C3B9E07F38020CBE0A71424D88BFD2:ip_addr=10.21.1.112:view_collection:collection_id=3

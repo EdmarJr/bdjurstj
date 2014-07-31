@@ -1,0 +1,374 @@
+2014-05-16 14:09:22,147 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5BCE6E20DE6E785665AA260FFBCB9EF2:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 14:09:22,380 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 14:09:42,484 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:09:42,522 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:09:46,348 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:09:57,019 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-16 14:09:57,103 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-16 14:09:57,108 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=1
+2014-05-16 14:09:57,108 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:login:type=explicit
+2014-05-16 14:09:57,247 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:09:57,247 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:10:03,390 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:10:21,976 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_community:community_id=1,handle=123456789/1
+2014-05-16 14:10:21,978 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_community:community_id=1
+2014-05-16 14:10:21,989 INFO  org.dspace.event.EventManager @ 
+2014-05-16 14:10:23,084 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/1 to Index
+2014-05-16 14:10:28,208 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:10:28,211 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:10:28,333 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:10:30,082 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:10:30,089 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2014-05-16 14:10:30,089 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2014-05-16 14:10:30,089 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/usr/dspaceinstall/config/GeoLiteCity.dat
+2014-05-16 14:10:30,511 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2014-05-16 14:10:30,515 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/agents/example
+2014-05-16 14:10:30,519 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-altavista.txt
+2014-05-16 14:10:30,978 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading panchma.tivra.com:  Unresolvable host name (empty response)
+2014-05-16 14:10:31,994 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2014-05-16 14:10:32,889 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2014-05-16 14:10:33,194 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2014-05-16 14:10:33,410 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2014-05-16 14:10:34,005 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2014-05-16 14:10:34,224 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2014-05-16 14:10:35,676 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2014-05-16 14:10:35,676 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-non_engines.txt
+2014-05-16 14:10:35,691 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-lycos.txt
+2014-05-16 14:10:35,693 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-excite.txt
+2014-05-16 14:10:35,697 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-infoseek.txt
+2014-05-16 14:10:35,815 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-misc.txt
+2014-05-16 14:10:35,889 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-inktomi.txt
+2014-05-16 14:10:35,920 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-google.txt
+2014-05-16 14:10:35,924 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/domains/example
+2014-05-16 14:10:36,282 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:10:48,312 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_collection:collection_id=1,handle=123456789/2
+2014-05-16 14:10:48,314 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:add_collection:community_id=1,collection_id=1
+2014-05-16 14:10:48,351 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_collection:collection_id=1
+2014-05-16 14:10:48,385 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-16 14:10:55,998 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:10:55,999 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:10:58,018 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:10:58,155 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:10:59,686 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:10:59,785 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:11:01,410 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=1
+2014-05-16 14:11:01,441 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_item:item_id=1
+2014-05-16 14:11:01,456 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=1
+2014-05-16 14:11:01,466 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_workspace_item:workspace_item_id=-1item_id=1collection_id=1
+2014-05-16 14:11:01,528 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=1
+2014-05-16 14:11:01,534 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=1
+2014-05-16 14:11:01,547 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=1
+2014-05-16 14:11:01,549 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=1
+2014-05-16 14:11:01,552 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=1
+2014-05-16 14:11:01,554 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=1
+2014-05-16 14:13:03,494 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:13:03,494 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:13:04,833 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:13:05,035 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:13:06,887 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:13:07,045 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:14:09,852 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:14:10,497 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:search:query="null",results=(0,0,0)
+2014-05-16 14:14:10,568 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:16:06,111 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:16:06,114 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:16:08,376 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:16:08,491 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:17:57,836 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=5BCE6E20DE6E785665AA260FFBCB9EF2:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 14:17:57,851 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 14:18:13,834 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:18:13,835 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:20:55,264 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:20:55,266 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:25:46,662 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:25:46,665 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:26:59,607 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:26:59,723 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:27:01,346 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:27:01,434 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:27:05,319 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=2
+2014-05-16 14:27:05,324 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_item:item_id=2
+2014-05-16 14:27:05,339 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=2
+2014-05-16 14:27:05,340 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_workspace_item:workspace_item_id=-1item_id=2collection_id=1
+2014-05-16 14:27:05,345 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:05,348 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:05,356 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:05,359 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:05,362 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:05,365 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:20,533 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:20,536 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:20,640 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-05-16 14:27:20,695 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:20,698 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:26,127 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-05-16 14:27:26,170 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:26,177 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:28,788 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:28,791 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:28,838 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:28,844 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:50,574 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bundle:bundle_id=1
+2014-05-16 14:27:50,578 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bundle:bundle_id=1
+2014-05-16 14:27:50,587 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=2,bundle_id=1
+2014-05-16 14:27:50,801 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bitstream:bitstream_id=1
+2014-05-16 14:27:50,834 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bitstream:bundle_id=1,bitstream_id=1
+2014-05-16 14:27:50,885 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=2,bundle_id=1
+2014-05-16 14:27:50,905 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=1
+2014-05-16 14:27:50,910 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:50,911 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=1
+2014-05-16 14:27:50,948 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:50,952 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:53,069 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:53,077 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:56,164 INFO  org.dspace.submit.step.LicenseStep @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:accept_license:workspace_item_id2
+2014-05-16 14:27:56,181 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bundle:bundle_id=2
+2014-05-16 14:27:56,183 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bundle:bundle_id=2
+2014-05-16 14:27:56,186 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=2,bundle_id=2
+2014-05-16 14:27:56,207 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bitstream:bitstream_id=2
+2014-05-16 14:27:56,216 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bitstream:bundle_id=2,bitstream_id=2
+2014-05-16 14:27:56,228 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=2,bundle_id=2
+2014-05-16 14:27:56,231 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=2
+2014-05-16 14:27:56,237 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=2
+2014-05-16 14:27:56,240 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:56,242 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=2
+2014-05-16 14:27:56,250 INFO  org.dspace.submit.step.CompleteStep @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:submission_complete:Completed submission with id=2
+2014-05-16 14:27:56,250 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:start_workflow:workspace_item_id=2item_id=2collection_id=1
+2014-05-16 14:27:56,259 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:56,358 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:delete_workspace_item:workspace_item_id=2item_id=2collection_id=1
+2014-05-16 14:27:56,649 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:archive_item:workflow_item_id=1item_id=2collection_id=1
+2014-05-16 14:27:56,678 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:56,712 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_item:collection_id=1,item_id=2
+2014-05-16 14:27:56,736 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=2
+2014-05-16 14:27:56,772 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:install_item:workflow_id=1, item_id=2handle=FIXME
+2014-05-16 14:27:57,430 WARN  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:notifyOfArchive:cannot email user item_id=2
+2014-05-16 14:27:57,431 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/3
+2014-05-16 14:27:57,449 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=1,item_id=2,collection_id=1,old_state=6,new_state=7
+2014-05-16 14:27:57,449 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/3
+2014-05-16 14:27:57,469 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=1,item_id=2,collection_id=1,old_state=4,new_state=7
+2014-05-16 14:27:57,469 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/3
+2014-05-16 14:27:57,511 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=1,item_id=2,collection_id=1,old_state=2,new_state=7
+2014-05-16 14:27:57,511 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/3
+2014-05-16 14:27:57,543 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=1,item_id=2,collection_id=1,old_state=0,new_state=7
+2014-05-16 14:27:58,020 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/3 to Index
+2014-05-16 14:28:08,553 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:28:08,554 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:28:08,718 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:28:39,189 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/3
+2014-05-16 14:28:39,439 INFO  org.dspace.app.util.GoogleMetadata @ Using [/usr/dspaceinstall/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2014-05-16 14:29:11,027 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/3
+2014-05-16 14:29:12,367 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:29:12,409 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:29:14,847 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:29:14,926 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:29:18,361 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=3
+2014-05-16 14:29:18,363 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_item:item_id=3
+2014-05-16 14:29:18,376 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=3
+2014-05-16 14:29:18,377 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_workspace_item:workspace_item_id=-1item_id=3collection_id=1
+2014-05-16 14:29:18,381 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:18,383 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:18,390 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:18,392 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:18,394 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:18,396 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:38,912 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:38,915 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:38,951 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:38,958 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:49,277 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:29:49,280 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:29:49,593 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-05-16 14:30:15,172 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:30:15,174 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:30:24,730 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:30:24,732 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:30:24,741 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:30:24,743 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:11,480 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bundle:bundle_id=3
+2014-05-16 14:37:11,482 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bundle:bundle_id=3
+2014-05-16 14:37:11,485 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=3,bundle_id=3
+2014-05-16 14:37:11,513 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bitstream:bitstream_id=3
+2014-05-16 14:37:11,520 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bitstream:bundle_id=3,bitstream_id=3
+2014-05-16 14:37:11,537 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=3,bundle_id=3
+2014-05-16 14:37:11,541 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=3
+2014-05-16 14:37:11,549 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:11,601 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=3
+2014-05-16 14:37:11,611 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:37:11,614 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:13,852 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:37:13,856 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:16,329 INFO  org.dspace.submit.step.LicenseStep @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:accept_license:workspace_item_id3
+2014-05-16 14:37:16,342 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bundle:bundle_id=4
+2014-05-16 14:37:16,346 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bundle:bundle_id=4
+2014-05-16 14:37:16,349 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=3,bundle_id=4
+2014-05-16 14:37:16,376 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:create_bitstream:bitstream_id=4
+2014-05-16 14:37:16,383 INFO  org.dspace.content.Bundle @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bitstream:bundle_id=4,bitstream_id=4
+2014-05-16 14:37:16,393 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_bundle:item_id=3,bundle_id=4
+2014-05-16 14:37:16,396 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=4
+2014-05-16 14:37:16,402 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_workspace_item:workspace_item_id=3
+2014-05-16 14:37:16,404 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:16,406 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_bitstream:bitstream_id=4
+2014-05-16 14:37:16,413 INFO  org.dspace.submit.step.CompleteStep @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:submission_complete:Completed submission with id=3
+2014-05-16 14:37:16,415 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:start_workflow:workspace_item_id=3item_id=3collection_id=1
+2014-05-16 14:37:16,420 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:16,432 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:delete_workspace_item:workspace_item_id=3item_id=3collection_id=1
+2014-05-16 14:37:16,434 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:archive_item:workflow_item_id=2item_id=3collection_id=1
+2014-05-16 14:37:16,441 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:16,450 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:add_item:collection_id=1,item_id=3
+2014-05-16 14:37:16,453 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:update_item:item_id=3
+2014-05-16 14:37:16,477 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:install_item:workflow_id=2, item_id=3handle=FIXME
+2014-05-16 14:37:21,490 WARN  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:notifyOfArchive:cannot email user item_id=3
+2014-05-16 14:37:21,491 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/4
+2014-05-16 14:37:21,509 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=2,item_id=3,collection_id=1,old_state=6,new_state=7
+2014-05-16 14:37:21,509 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/4
+2014-05-16 14:37:21,524 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=2,item_id=3,collection_id=1,old_state=4,new_state=7
+2014-05-16 14:37:21,524 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/4
+2014-05-16 14:37:21,540 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=2,item_id=3,collection_id=1,old_state=2,new_state=7
+2014-05-16 14:37:21,540 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:workflow_item:handle=123456789/4
+2014-05-16 14:37:21,555 INFO  org.dspace.workflow.WorkflowManager @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:advance_workflow:workflow_item_id=2,item_id=3,collection_id=1,old_state=0,new_state=7
+2014-05-16 14:37:21,805 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/4 to Index
+2014-05-16 14:37:38,992 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:37:38,997 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:37:39,213 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:37:42,168 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/3
+2014-05-16 14:38:17,772 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=2
+2014-05-16 14:38:18,081 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/3 to Index
+2014-05-16 14:38:25,656 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:browse_by_item:
+2014-05-16 14:38:25,699 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:browse:org.dspace.app.xmlui.utils.DSpaceValidity@947c18e
+2014-05-16 14:38:28,149 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 14:38:29,618 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 14:38:34,001 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/3
+2014-05-16 14:38:49,833 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_item:item_id=2
+2014-05-16 14:38:50,004 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/3 to Index
+2014-05-16 14:38:53,513 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:38:53,514 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:38:53,611 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:38:55,687 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 14:39:33,524 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:39:33,606 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:40:57,554 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:40:57,555 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:41:00,695 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:41:00,777 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:41:02,716 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 14:41:30,629 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-16 14:41:30,649 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-16 14:41:30,652 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=1
+2014-05-16 14:41:30,652 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:login:type=explicit
+2014-05-16 14:41:31,135 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 14:41:31,138 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:41:33,829 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 14:42:05,441 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:42:05,527 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:47:10,440 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_item:handle=123456789/3
+2014-05-16 14:47:14,696 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:47:14,776 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:47:20,057 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:47:20,129 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:57:06,892 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:57:07,010 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:search:query="null",results=(0,0,0)
+2014-05-16 14:57:07,415 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 14:57:42,144 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 14:57:42,220 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 14:57:52,967 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_collection:collection_id=1
+2014-05-16 14:57:53,046 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 14:59:37,239 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 14:59:37,758 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 14:59:37,843 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-05-16 14:59:37,873 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-05-16 15:00:42,597 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 15:00:42,641 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 15:00:42,667 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:00:42,730 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-16 15:00:42,750 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2014-05-16 15:00:42,750 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2014-05-16 15:00:42,752 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/usr/dspaceinstall/config/GeoLiteCity.dat
+2014-05-16 15:00:42,782 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2014-05-16 15:00:42,789 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/agents/example
+2014-05-16 15:00:42,796 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-altavista.txt
+2014-05-16 15:00:43,188 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading panchma.tivra.com:  Unresolvable host name (empty response)
+2014-05-16 15:00:44,199 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2014-05-16 15:00:44,881 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2014-05-16 15:00:45,191 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2014-05-16 15:00:45,566 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2014-05-16 15:00:45,828 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2014-05-16 15:00:46,200 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2014-05-16 15:00:47,842 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2014-05-16 15:00:47,842 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-non_engines.txt
+2014-05-16 15:00:47,845 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-lycos.txt
+2014-05-16 15:00:47,847 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-excite.txt
+2014-05-16 15:00:47,849 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-infoseek.txt
+2014-05-16 15:00:47,898 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-misc.txt
+2014-05-16 15:00:47,909 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-inktomi.txt
+2014-05-16 15:00:47,913 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-google.txt
+2014-05-16 15:00:47,915 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/domains/example
+2014-05-16 15:00:52,467 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:display_statistics:handle=123456789/1, path=/statistics
+2014-05-16 15:01:36,569 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:01:36,618 INFO  org.dspace.app.webui.discovery.DiscoverySearchRequestProcessor @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:search:scope=org.dspace.content.Community@276,query="null",results=(0,0,2)
+2014-05-16 15:01:53,558 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 15:01:53,601 INFO  org.dspace.app.util.GoogleMetadata @ Using [/usr/dspaceinstall/config/crosswalks/google-metadata.properties] for Google Metadata configuration
+2014-05-16 15:01:53,658 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:view_item:handle=123456789/4
+2014-05-16 15:02:54,407 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 15:02:54,427 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 15:10:59,859 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=54B541E581E54B0BEA52F771DCDD9E08:ip_addr=10.21.2.100:browse_mini:
+2014-05-16 15:10:59,886 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 15:11:08,141 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 15:11:08,142 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 15:11:41,215 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_eperson:eperson_id=2
+2014-05-16 15:11:41,218 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=2
+2014-05-16 15:11:41,223 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=2
+2014-05-16 15:11:56,115 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:create_eperson:eperson_id=3
+2014-05-16 15:11:56,116 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=3
+2014-05-16 15:11:56,118 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=3
+2014-05-16 15:12:17,267 INFO  org.dspace.eperson.Group @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_group:group_id=1
+2014-05-16 15:12:21,536 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 15:12:21,538 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 15:14:00,005 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-16 15:14:00,024 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-16 15:14:00,040 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:update_eperson:eperson_id=1
+2014-05-16 15:14:00,040 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:login:type=explicit
+2014-05-16 15:14:00,247 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 15:14:00,248 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 15:14:10,397 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:delete_eperson:eperson_id=3
+2014-05-16 15:14:10,403 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:delete_eperson:eperson_id=2
+2014-05-16 15:14:14,016 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5986C734C50B2ED13EA7F7D809CB9A1E:ip_addr=10.21.2.100:view_community_list:
+2014-05-16 15:14:14,017 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 15:50:25,492 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 15:50:25,514 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 15:50:30,573 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_community_list:
+2014-05-16 15:51:03,039 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_community_list:
+2014-05-16 15:51:05,419 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-16 15:51:05,444 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_by_item:
+2014-05-16 15:51:05,497 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-16 15:51:05,544 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-16 15:51:21,266 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse:type=dateissued,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=2,community=n/a,collection=123456789/2,level=0,etal=-1
+2014-05-16 15:51:21,266 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_by_item:
+2014-05-16 15:51:27,005 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-16 15:51:27,017 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-16 15:51:56,843 INFO  org.dspace.app.webui.servlet.BitstreamServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_bitstream:bitstream_id=3
+2014-05-16 15:51:56,845 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_bitstream:bitstream_id=3
+2014-05-16 15:52:08,415 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-16 15:52:08,426 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-16 15:52:36,773 INFO  org.dspace.app.webui.servlet.AbstractBrowserServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse:type=author,order=ASC,value=null,month=null,year=null,starts_with=null,vfocus=null,focus=-1,rpp=20,sort_by=0,community=n/a,collection=123456789/2,level=0,etal=-1
+2014-05-16 15:52:36,775 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_by_value:focus=null
+2014-05-16 15:53:20,011 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-16 15:53:20,017 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 15:53:20,035 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:53:20,080 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-16 15:53:25,217 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:display_statistics:handle=123456789/1, path=/statistics
+2014-05-16 15:53:55,208 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:53:55,270 INFO  org.dspace.app.webui.discovery.DiscoverySearchRequestProcessor @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:search:scope=org.dspace.content.Community@276,query="null",results=(0,0,2)
+2014-05-16 15:54:04,738 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:54:04,789 INFO  org.dspace.app.webui.discovery.DiscoverySearchRequestProcessor @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:search:scope=org.dspace.content.Community@276,query="null",results=(0,1,2)
+2014-05-16 15:54:19,359 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-16 15:54:19,444 INFO  org.dspace.app.webui.discovery.DiscoverySearchRequestProcessor @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:search:scope=org.dspace.content.Community@276,query="null",results=(0,0,1)
+2014-05-16 15:54:34,393 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=44CC1B83A2AD1EC53471C097D95E6D42:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 15:54:34,406 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 19:04:20,700 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=62BA77BB92FE7F11AAA3C8AE25A6E164:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 19:04:20,710 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 19:04:29,387 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2FD383FEBC013C4E2C3AE06287EB0371:ip_addr=10.21.0.78:view_community_list:
+2014-05-16 19:04:29,389 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-16 19:15:58,416 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=62BA77BB92FE7F11AAA3C8AE25A6E164:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 19:15:58,433 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-16 19:53:52,860 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EC6320A05429EF9A836B8DF4A27B36CD:ip_addr=10.21.0.78:browse_mini:
+2014-05-16 19:53:52,876 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3

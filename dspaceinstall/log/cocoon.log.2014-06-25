@@ -1,0 +1,1274 @@
+2014-06-25 10:19:13,663 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:19:13,807 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/?pipelinehash=-3983196624749804755_T-Navigation-3450784280878095745_T-Include-resource://aspects/ViewArtifacts/dspace-home.xml_T-Include-file:///usr/dspaceinstall/config/news-xmlui.xml
+2014-06-25 10:19:13,808 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/?pipelinehash=-256957452787174198_T-Navigation-3450784280878095745_T-CommunityBrowser-578614924677317992
+2014-06-25 10:19:14,202 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/7/?pipelinehash=-8705202904055063501_T-Navigation-3450784280878095745_T-SidebarFacetsTransformer-0_T-FrontPageFeeds-1_T-SiteRecentSubmissions-0
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/?pipelinehash=6933094160779810300_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/?pipelinehash=8382551625612174896
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/
+2014-06-25 10:19:16,600 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/_T-PageNotFound--2223765811167872118
+2014-06-25 10:19:16,617 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:19:16,636 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,639 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,640 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,641 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,642 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,643 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,644 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,645 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,646 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,646 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,647 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,648 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,649 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,650 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,650 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,651 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,652 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,653 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,653 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,654 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,655 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,656 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,657 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,657 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,658 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,660 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,661 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,662 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,662 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,663 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,664 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,665 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,665 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,666 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,667 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,668 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,669 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,669 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,670 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,671 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,672 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,672 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,673 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,674 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,677 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,678 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,679 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,680 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:19:16,807 INFO  cocoon.access  - '' Processed by Apache Cocoon in 3.684 seconds.
+2014-06-25 10:19:16,939 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/reset.css?minify
+2014-06-25 10:19:17,189 INFO  cocoon.access  - 'themes/Mirage/lib/css/reset.css' Processed by Apache Cocoon in 298 milliseconds.
+2014-06-25 10:19:17,217 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/jquery-ui-1.8.15.custom.css?minify
+2014-06-25 10:19:17,273 INFO  cocoon.access  - 'themes/Mirage/lib/css/jquery-ui-1.8.15.custom.css' Processed by Apache Cocoon in 358 milliseconds.
+2014-06-25 10:19:17,273 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/handheld.css?minify
+2014-06-25 10:19:17,274 INFO  cocoon.access  - 'themes/Mirage/lib/css/handheld.css' Processed by Apache Cocoon in 340 milliseconds.
+2014-06-25 10:19:17,300 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/base.css?minify
+2014-06-25 10:19:17,301 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/authority-control.css?minify
+2014-06-25 10:19:17,317 INFO  cocoon.access  - 'themes/Mirage/lib/css/authority-control.css' Processed by Apache Cocoon in 95 milliseconds.
+2014-06-25 10:19:17,318 INFO  cocoon.access  - 'themes/Mirage/lib/css/base.css' Processed by Apache Cocoon in 97 milliseconds.
+2014-06-25 10:19:17,327 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/helper.css?minify
+2014-06-25 10:19:17,351 INFO  cocoon.access  - 'themes/Mirage/lib/css/helper.css' Processed by Apache Cocoon in 134 milliseconds.
+2014-06-25 10:19:17,355 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/style.css?minify
+2014-06-25 10:19:17,357 INFO  cocoon.access  - 'themes/Mirage/lib/css/style.css' Processed by Apache Cocoon in 63 milliseconds.
+2014-06-25 10:19:17,365 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/media.css?minify
+2014-06-25 10:19:17,366 INFO  cocoon.access  - 'themes/Mirage/lib/css/media.css' Processed by Apache Cocoon in 71 milliseconds.
+2014-06-25 10:19:17,368 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/js/jquery-ui-1.8.15.custom.min.js?minify
+2014-06-25 10:19:17,387 INFO  cocoon.access  - 'themes/Mirage/lib/js/jquery-ui-1.8.15.custom.min.js' Processed by Apache Cocoon in 64 milliseconds.
+2014-06-25 10:19:17,387 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/js/modernizr-1.7.min.js?minify
+2014-06-25 10:19:17,388 INFO  cocoon.access  - 'themes/Mirage/lib/js/modernizr-1.7.min.js' Processed by Apache Cocoon in 64 milliseconds.
+2014-06-25 10:19:17,414 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-ConcatenationReader-lib/css/print.css?minify
+2014-06-25 10:19:17,415 INFO  cocoon.access  - 'themes/Mirage/lib/css/print.css' Processed by Apache Cocoon in 66 milliseconds.
+2014-06-25 10:19:18,112 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/static/icons/feed.png
+2014-06-25 10:19:18,113 INFO  cocoon.access  - 'static/icons/feed.png' Processed by Apache Cocoon in 23 milliseconds.
+2014-06-25 10:19:18,155 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Mirage/images/dspace-logo-only.png
+2014-06-25 10:19:18,156 INFO  cocoon.access  - 'themes/Mirage/images/dspace-logo-only.png' Processed by Apache Cocoon in 70 milliseconds.
+2014-06-25 10:19:18,156 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Mirage/images/@mirelogo-small.png
+2014-06-25 10:19:18,157 INFO  cocoon.access  - 'themes/Mirage/images/@mirelogo-small.png' Processed by Apache Cocoon in 67 milliseconds.
+2014-06-25 10:19:18,315 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_R-resource-jndi:/localhost/xmlui/themes/Mirage/images/favicon.ico
+2014-06-25 10:19:18,316 INFO  cocoon.access  - 'themes/Mirage/images/favicon.ico' Processed by Apache Cocoon in 5 milliseconds.
+2014-06-25 10:20:45,026 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:20:45,027 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/9/login?pipelinehash=-3983196624749804755_T-Navigation--315040939875131883
+2014-06-25 10:20:45,027 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/8/login?pipelinehash=-8340584399694754584_T-Navigation--315040939875131883
+2014-06-25 10:20:45,027 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/7/login?pipelinehash=8934929028144169353_T-Navigation--315040939875131883
+2014-06-25 10:20:45,027 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/6/login?pipelinehash=7698014024342169428_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2014-06-25 10:20:45,028 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/5/login?pipelinehash=-2631443941933121187_T-Navigation--7914771866961343191
+2014-06-25 10:20:45,028 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/login?pipelinehash=-5764762015703460784
+2014-06-25 10:20:45,028 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/login?pipelinehash=-4602014555146403928
+2014-06-25 10:20:45,028 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/login?pipelinehash=-3300300322436412658
+2014-06-25 10:20:45,028 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/login?pipelinehash=1809936263277702724_T-PageNotFound--1135021220491111614
+2014-06-25 10:20:45,040 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/login?pipelinehash=2493468034327858046_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:20:45,045 ERROR cocoon.handled  - Failed to process pipeline
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:96:31
+	at <map:generate type="file"> - jndi:/localhost/xmlui/aspects/aspects.xmap:95:55
+	at <map:serialize type="xml"> - resource://aspects/ViewArtifacts/sitemap.xmap:340:32
+	at <map:transform type="Navigation"> - resource://aspects/ViewArtifacts/sitemap.xmap:88:59
+	at <map:generate> - resource://aspects/ViewArtifacts/sitemap.xmap:76:40
+	at <map:serialize type="xml"> - resource://aspects/BrowseArtifacts/sitemap.xmap:108:40
+	at <map:transform type="Navigation"> - resource://aspects/BrowseArtifacts/sitemap.xmap:47:47
+	at <map:generate> - resource://aspects/BrowseArtifacts/sitemap.xmap:41:28
+	at <map:serialize type="xml"> - resource://aspects/Discovery/sitemap.xmap:214:40
+	at <map:transform type="Navigation"> - resource://aspects/Discovery/sitemap.xmap:78:47
+	at <map:generate> - resource://aspects/Discovery/sitemap.xmap:66:28
+	at <map:serialize type="xml"> - resource://aspects/Administrative/sitemap.xmap:1037:31
+	at <map:transform type="Navigation"> - resource://aspects/Administrative/sitemap.xmap:282:38
+	at <map:transform type="SystemwideAlerts"> - resource://aspects/Administrative/sitemap.xmap:281:44
+	at <map:generate> - resource://aspects/Administrative/sitemap.xmap:279:19
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:137:32
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+org.apache.cocoon.ProcessingException: Failed to process pipeline
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:96:31
+	at <map:generate type="file"> - jndi:/localhost/xmlui/aspects/aspects.xmap:95:55
+	at <map:serialize type="xml"> - resource://aspects/ViewArtifacts/sitemap.xmap:340:32
+	at <map:transform type="Navigation"> - resource://aspects/ViewArtifacts/sitemap.xmap:88:59
+	at <map:generate> - resource://aspects/ViewArtifacts/sitemap.xmap:76:40
+	at <map:serialize type="xml"> - resource://aspects/BrowseArtifacts/sitemap.xmap:108:40
+	at <map:transform type="Navigation"> - resource://aspects/BrowseArtifacts/sitemap.xmap:47:47
+	at <map:generate> - resource://aspects/BrowseArtifacts/sitemap.xmap:41:28
+	at <map:serialize type="xml"> - resource://aspects/Discovery/sitemap.xmap:214:40
+	at <map:transform type="Navigation"> - resource://aspects/Discovery/sitemap.xmap:78:47
+	at <map:generate> - resource://aspects/Discovery/sitemap.xmap:66:28
+	at <map:serialize type="xml"> - resource://aspects/Administrative/sitemap.xmap:1037:31
+	at <map:transform type="Navigation"> - resource://aspects/Administrative/sitemap.xmap:282:38
+	at <map:transform type="SystemwideAlerts"> - resource://aspects/Administrative/sitemap.xmap:281:44
+	at <map:generate> - resource://aspects/Administrative/sitemap.xmap:279:19
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:137:32
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+	at org.apache.cocoon.ProcessingException.throwLocated(ProcessingException.java:143)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.handleException(AbstractProcessingPipeline.java:923)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:379)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:360)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:439)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.treeprocessor.sitemap.SerializeNode.invoke(SerializeNode.java:147)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.servlet.RequestProcessor.process(RequestProcessor.java:351)
+	at org.apache.cocoon.servlet.RequestProcessor.service(RequestProcessor.java:169)
+	at org.apache.cocoon.sitemap.SitemapServlet.service(SitemapServlet.java:84)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:468)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:443)
+	at org.apache.cocoon.servletservice.spring.ServletFactoryBean$ServiceInterceptor.invoke(ServletFactoryBean.java:264)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at com.sun.proxy.$Proxy82.service(Unknown Source)
+	at org.dspace.springmvc.CocoonView.render(CocoonView.java:113)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.xml.sax.SAXException: An error was encountered while processing the 'aspect.general.PageNotFoundTransformer' Wing based component: org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer
+org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.cocoon.AbstractDSpaceTransformer.handleException(AbstractDSpaceTransformer.java:109)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:248)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.sendEvent(PageNotFoundTransformer.java:229)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.endElement(PageNotFoundTransformer.java:145)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.components.sax.AbstractXMLByteStreamInterpreter.parse(AbstractXMLByteStreamInterpreter.java:120)
+	at org.apache.cocoon.components.sax.XMLByteStreamInterpreter.deserialize(XMLByteStreamInterpreter.java:44)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:324)
+	... 243 more
+Caused by: org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.addBody(PageNotFoundTransformer.java:168)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:223)
+	... 313 more
+2014-06-25 10:20:45,051 INFO  org.apache.cocoon.components.treeprocessor.sitemap.HandleErrorsNode  - Processing handle-errors at <map:handle-errors> - jndi:/localhost/xmlui/sitemap.xmap:684:36
+2014-06-25 10:20:45,064 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,064 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,065 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,065 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,066 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,066 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,067 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,067 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,068 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,068 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,069 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,069 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,070 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,070 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,071 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,071 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_pt_BR.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,072 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,072 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,073 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,073 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,074 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,074 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,075 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,075 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,076 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,076 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,077 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,077 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,078 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Discovery/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,078 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,079 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,079 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,080 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages_pt.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,080 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Workflow/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,081 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Workflow/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,081 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Statistics/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,082 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Statistics/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,083 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Submission/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,083 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Submission/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,084 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/EPerson/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,084 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/EPerson/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,085 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Administrative/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,085 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/Administrative/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,086 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/Discovery/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,086 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/BrowseArtifacts/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,087 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/BrowseArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,087 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <file:///usr/apache-tomcat-7.0.53/webapps/xmlui/i18n/aspects/ViewArtifacts/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,088 INFO  org.apache.cocoon.i18n.XMLResourceBundle  - Bundle <resource://aspects/ViewArtifacts/i18n/messages.xml> not loaded: Source URI not found
+2014-06-25 10:20:45,108 INFO  cocoon.access  - 'login' Processed by Apache Cocoon in 109 milliseconds.
+2014-06-25 10:20:45,138 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:20:45,409 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/password-login?pipelinehash=-3983196624749804755_T-Navigation-1945170213168007946
+2014-06-25 10:20:45,495 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/password-login?pipelinehash=-5590568551399528381_T-Navigation-1945170213168007946
+2014-06-25 10:20:45,550 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/7/password-login?pipelinehash=4012294635016452898_T-Navigation-1945170213168007946
+2014-06-25 10:20:45,650 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/password-login?pipelinehash=-1086475797904504566_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2014-06-25 10:20:46,030 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/password-login?pipelinehash=2969726193702729524_T-Navigation--7914771866961343191_T-PasswordLogin-1
+2014-06-25 10:20:46,077 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/4/password-login?pipelinehash=2034999062056220451
+2014-06-25 10:20:46,110 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/3/password-login?pipelinehash=933600357093950343
+2014-06-25 10:20:46,443 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/2/password-login?pipelinehash=-6757589203247370603
+2014-06-25 10:20:46,473 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/1/password-login?pipelinehash=-6535480476055108256_T-PageNotFound-734162356040014990
+2014-06-25 10:20:46,552 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-cocoon://DRI/password-login?pipelinehash=2430684898490923278_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:20:46,554 INFO  cocoon.access  - 'password-login' Processed by Apache Cocoon in 1.442 seconds.
+2014-06-25 10:20:46,884 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/9/login?pipelinehash=-3983196624749804755_T-Navigation--315040939875131883
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/8/login?pipelinehash=-8340584399694754584_T-Navigation--315040939875131883
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/7/login?pipelinehash=8934929028144169353_T-Navigation--315040939875131883
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/6/login?pipelinehash=7698014024342169428_T-SystemwideAlerts-1_T-Navigation--5367372201529954577
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/5/login?pipelinehash=-2631443941933121187_T-Navigation--7914771866961343191
+2014-06-25 10:20:46,885 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/login?pipelinehash=-5764762015703460784
+2014-06-25 10:20:46,886 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/login?pipelinehash=-4602014555146403928
+2014-06-25 10:20:46,886 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/login?pipelinehash=-3300300322436412658
+2014-06-25 10:20:46,886 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/login?pipelinehash=1809936263277702724_T-PageNotFound--1135021220491111614
+2014-06-25 10:20:46,910 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/login?pipelinehash=2493468034327858046_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:20:46,917 ERROR cocoon.handled  - Failed to process pipeline
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:96:31
+	at <map:generate type="file"> - jndi:/localhost/xmlui/aspects/aspects.xmap:95:55
+	at <map:serialize type="xml"> - resource://aspects/ViewArtifacts/sitemap.xmap:340:32
+	at <map:transform type="Navigation"> - resource://aspects/ViewArtifacts/sitemap.xmap:88:59
+	at <map:generate> - resource://aspects/ViewArtifacts/sitemap.xmap:76:40
+	at <map:serialize type="xml"> - resource://aspects/BrowseArtifacts/sitemap.xmap:108:40
+	at <map:transform type="Navigation"> - resource://aspects/BrowseArtifacts/sitemap.xmap:47:47
+	at <map:generate> - resource://aspects/BrowseArtifacts/sitemap.xmap:41:28
+	at <map:serialize type="xml"> - resource://aspects/Discovery/sitemap.xmap:214:40
+	at <map:transform type="Navigation"> - resource://aspects/Discovery/sitemap.xmap:78:47
+	at <map:generate> - resource://aspects/Discovery/sitemap.xmap:66:28
+	at <map:serialize type="xml"> - resource://aspects/Administrative/sitemap.xmap:1037:31
+	at <map:transform type="Navigation"> - resource://aspects/Administrative/sitemap.xmap:282:38
+	at <map:transform type="SystemwideAlerts"> - resource://aspects/Administrative/sitemap.xmap:281:44
+	at <map:generate> - resource://aspects/Administrative/sitemap.xmap:279:19
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:137:32
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+org.apache.cocoon.ProcessingException: Failed to process pipeline
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:96:31
+	at <map:generate type="file"> - jndi:/localhost/xmlui/aspects/aspects.xmap:95:55
+	at <map:serialize type="xml"> - resource://aspects/ViewArtifacts/sitemap.xmap:340:32
+	at <map:transform type="Navigation"> - resource://aspects/ViewArtifacts/sitemap.xmap:88:59
+	at <map:generate> - resource://aspects/ViewArtifacts/sitemap.xmap:76:40
+	at <map:serialize type="xml"> - resource://aspects/BrowseArtifacts/sitemap.xmap:108:40
+	at <map:transform type="Navigation"> - resource://aspects/BrowseArtifacts/sitemap.xmap:47:47
+	at <map:generate> - resource://aspects/BrowseArtifacts/sitemap.xmap:41:28
+	at <map:serialize type="xml"> - resource://aspects/Discovery/sitemap.xmap:214:40
+	at <map:transform type="Navigation"> - resource://aspects/Discovery/sitemap.xmap:78:47
+	at <map:generate> - resource://aspects/Discovery/sitemap.xmap:66:28
+	at <map:serialize type="xml"> - resource://aspects/Administrative/sitemap.xmap:1037:31
+	at <map:transform type="Navigation"> - resource://aspects/Administrative/sitemap.xmap:282:38
+	at <map:transform type="SystemwideAlerts"> - resource://aspects/Administrative/sitemap.xmap:281:44
+	at <map:generate> - resource://aspects/Administrative/sitemap.xmap:279:19
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:137:32
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+	at org.apache.cocoon.ProcessingException.throwLocated(ProcessingException.java:143)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.handleException(AbstractProcessingPipeline.java:923)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:379)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:326)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:360)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:439)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.treeprocessor.sitemap.SerializeNode.invoke(SerializeNode.java:147)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.servlet.RequestProcessor.process(RequestProcessor.java:351)
+	at org.apache.cocoon.servlet.RequestProcessor.service(RequestProcessor.java:169)
+	at org.apache.cocoon.sitemap.SitemapServlet.service(SitemapServlet.java:84)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:468)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:443)
+	at org.apache.cocoon.servletservice.spring.ServletFactoryBean$ServiceInterceptor.invoke(ServletFactoryBean.java:264)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at com.sun.proxy.$Proxy82.service(Unknown Source)
+	at org.dspace.springmvc.CocoonView.render(CocoonView.java:113)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.xml.sax.SAXException: An error was encountered while processing the 'aspect.general.PageNotFoundTransformer' Wing based component: org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer
+org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.cocoon.AbstractDSpaceTransformer.handleException(AbstractDSpaceTransformer.java:109)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:248)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.sendEvent(PageNotFoundTransformer.java:229)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.endElement(PageNotFoundTransformer.java:145)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.components.sax.AbstractXMLByteStreamInterpreter.parse(AbstractXMLByteStreamInterpreter.java:120)
+	at org.apache.cocoon.components.sax.XMLByteStreamInterpreter.deserialize(XMLByteStreamInterpreter.java:44)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:324)
+	... 243 more
+Caused by: org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.addBody(PageNotFoundTransformer.java:168)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:223)
+	... 313 more
+2014-06-25 10:20:46,925 INFO  org.apache.cocoon.components.treeprocessor.sitemap.HandleErrorsNode  - Processing handle-errors at <map:handle-errors> - jndi:/localhost/xmlui/sitemap.xmap:684:36
+2014-06-25 10:20:46,946 INFO  cocoon.access  - 'login' Processed by Apache Cocoon in 88 milliseconds.
+2014-06-25 10:21:00,396 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:21:00,397 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/password-login?pipelinehash=-3983196624749804755_T-Navigation-1945170213168007946
+2014-06-25 10:21:00,398 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/password-login?pipelinehash=-5590568551399528381_T-Navigation-1945170213168007946
+2014-06-25 10:21:00,398 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/7/password-login?pipelinehash=4012294635016452898_T-Navigation-1945170213168007946
+2014-06-25 10:21:00,417 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/password-login?pipelinehash=-1086475797904504566_T-SystemwideAlerts-1_T-Navigation-0
+2014-06-25 10:21:00,452 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/password-login?pipelinehash=-6864283497344228587
+2014-06-25 10:21:00,452 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/password-login
+2014-06-25 10:21:00,453 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/password-login
+2014-06-25 10:21:00,453 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/password-login
+2014-06-25 10:21:00,453 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/password-login_T-PageNotFound-734162356040014990
+2014-06-25 10:21:00,464 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/password-login_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:21:00,560 INFO  cocoon.access  - 'password-login' Processed by Apache Cocoon in 4.719 seconds.
+2014-06-25 10:21:32,051 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:21:32,052 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/password-login?pipelinehash=-3983196624749804755_T-Navigation-1945170213168007946
+2014-06-25 10:21:32,056 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/password-login?pipelinehash=-5590568551399528381_T-Navigation-1945170213168007946
+2014-06-25 10:21:32,056 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/7/password-login?pipelinehash=4012294635016452898_T-Navigation-1945170213168007946
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/password-login?pipelinehash=-1086475797904504566_T-SystemwideAlerts-1_T-Navigation-0
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/password-login?pipelinehash=-6864283497344228587
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/password-login
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/password-login
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/password-login
+2014-06-25 10:21:32,057 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/password-login_T-PageNotFound-734162356040014990
+2014-06-25 10:21:32,069 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/password-login_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:21:32,072 ERROR cocoon.handled  - Failed to process pipeline
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:147:33
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+org.apache.cocoon.ProcessingException: Failed to process pipeline
+	at <map:serialize type="xml"> - resource://aspects/EPerson/sitemap.xmap:147:33
+	at <map:transform type="Navigation"> - resource://aspects/EPerson/sitemap.xmap:107:38
+	at <map:generate> - resource://aspects/EPerson/sitemap.xmap:96:19
+	at <map:serialize> - resource://aspects/Submission/sitemap.xmap:277:27
+	at <map:generate> - resource://aspects/Submission/sitemap.xmap:257:26
+	at <map:serialize type="xml"> - resource://aspects/Statistics/sitemap.xmap:292:36
+	at <map:generate> - resource://aspects/Statistics/sitemap.xmap:37:19
+	at <map:serialize> - resource://aspects/Workflow/sitemap.xmap:161:27
+	at <map:generate> - resource://aspects/Workflow/sitemap.xmap:145:26
+	at <map:serialize type="xml"> - jndi:/localhost/xmlui/aspects/aspects.xmap:85:34
+	at <map:transform type="PageNotFound"> - jndi:/localhost/xmlui/aspects/aspects.xmap:84:43
+	at <map:generate> - jndi:/localhost/xmlui/aspects/aspects.xmap:83:22
+	at <map:serialize type="xhtml"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:164:34
+	at <map:transform type="i18n"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:158:33
+	at <map:transform> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:153:51
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:140:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:135:55
+	at <map:transform type="IncludePageMeta"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:126:55
+	at <map:generate type="file"> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:120:55
+	at <map:match> - jndi:/localhost/xmlui/themes/Mirage/sitemap.xmap:117:28
+	at <map:mount> - jndi:/localhost/xmlui/themes/themes.xmap:33:45
+	at <map:match type="ThemeMatcher"> - jndi:/localhost/xmlui/themes/themes.xmap:32:35
+	at <map:mount> - jndi:/localhost/xmlui/sitemap.xmap:680:94
+	at org.apache.cocoon.ProcessingException.throwLocated(ProcessingException.java:143)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.handleException(AbstractProcessingPipeline.java:923)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:379)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:750)
+	at sun.reflect.GeneratedMethodAccessor130.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.source.impl.SitemapSource.toSAX(SitemapSource.java:362)
+	at org.apache.cocoon.components.source.util.SourceUtil.toSAX(SourceUtil.java:111)
+	at org.apache.cocoon.components.source.util.SourceUtil.parse(SourceUtil.java:294)
+	at org.apache.cocoon.generation.FileGenerator.generate(FileGenerator.java:136)
+	at sun.reflect.GeneratedMethodAccessor124.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy86.generate(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.processXMLPipeline(AbstractProcessingPipeline.java:544)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:273)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:439)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy85.process(Unknown Source)
+	at org.apache.cocoon.components.treeprocessor.sitemap.SerializeNode.invoke(SerializeNode.java:147)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MountNode.invoke(MountNode.java:117)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.servlet.RequestProcessor.process(RequestProcessor.java:351)
+	at org.apache.cocoon.servlet.RequestProcessor.service(RequestProcessor.java:169)
+	at org.apache.cocoon.sitemap.SitemapServlet.service(SitemapServlet.java:84)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:468)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:443)
+	at org.apache.cocoon.servletservice.spring.ServletFactoryBean$ServiceInterceptor.invoke(ServletFactoryBean.java:264)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at com.sun.proxy.$Proxy82.service(Unknown Source)
+	at org.dspace.springmvc.CocoonView.render(CocoonView.java:113)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:275)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.xml.sax.SAXException: An error was encountered while processing the 'aspect.general.PageNotFoundTransformer' Wing based component: org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer
+org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.cocoon.AbstractDSpaceTransformer.handleException(AbstractDSpaceTransformer.java:109)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:248)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.sendEvent(PageNotFoundTransformer.java:229)
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.endElement(PageNotFoundTransformer.java:145)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.environment.internal.EnvironmentChanger.endElement(EnvironmentStack.java:147)
+	at org.apache.cocoon.xml.AbstractXMLPipe.endElement(AbstractXMLPipe.java:111)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.endElement(AbstractWingTransformer.java:283)
+	at sun.reflect.GeneratedMethodAccessor90.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy90.endElement(Unknown Source)
+	at org.apache.cocoon.components.sax.XMLTeePipe.endElement(XMLTeePipe.java:93)
+	at org.apache.cocoon.components.sax.AbstractXMLByteStreamInterpreter.parse(AbstractXMLByteStreamInterpreter.java:120)
+	at org.apache.cocoon.components.sax.XMLByteStreamInterpreter.deserialize(XMLByteStreamInterpreter.java:44)
+	at org.apache.cocoon.components.pipeline.impl.AbstractCachingProcessingPipeline.processXMLPipeline(AbstractCachingProcessingPipeline.java:324)
+	... 168 more
+Caused by: org.apache.cocoon.ResourceNotFoundException: Page cannot be found
+	at org.dspace.app.xmlui.aspect.general.PageNotFoundTransformer.addBody(PageNotFoundTransformer.java:168)
+	at org.dspace.app.xmlui.wing.AbstractWingTransformer.startElement(AbstractWingTransformer.java:223)
+	... 190 more
+2014-06-25 10:21:32,076 INFO  org.apache.cocoon.components.treeprocessor.sitemap.HandleErrorsNode  - Processing handle-errors at <map:handle-errors> - jndi:/localhost/xmlui/sitemap.xmap:684:36
+2014-06-25 10:21:32,092 INFO  cocoon.access  - 'password-login' Processed by Apache Cocoon in 410 milliseconds.
+2014-06-25 10:21:32,122 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-file-jndi:/localhost/xmlui/aspects/protodocument.xml
+2014-06-25 10:21:32,123 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/9/?pipelinehash=-3983196624749804755_T-Navigation-3450784280878095745_T-Include-resource://aspects/ViewArtifacts/dspace-home.xml_T-Include-file:///usr/dspaceinstall/config/news-xmlui.xml
+2014-06-25 10:21:32,123 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/8/?pipelinehash=-256957452787174198_T-Navigation-3450784280878095745_T-CommunityBrowser-578614924677317992
+2014-06-25 10:21:32,125 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/7/?pipelinehash=-8705202904055063501_T-Navigation-3450784280878095745_T-SidebarFacetsTransformer-0_T-FrontPageFeeds-1_T-SiteRecentSubmissions-0
+2014-06-25 10:21:32,409 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/6/?pipelinehash=6933094160779810300_T-SystemwideAlerts-1_T-Navigation--2934097225836906407
+2014-06-25 10:21:32,409 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Removing cached response for PK_G-aspect-cocoon://DRI/6/?pipelinehash=6933094160779810300_T-SystemwideAlerts-1_T-Navigation--2934097225836906407
+2014-06-25 10:21:32,465 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache HIT for PK_G-aspect-cocoon://DRI/5/?pipelinehash=1109180072955441953
+2014-06-25 10:21:32,465 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Removing cached response for PK_G-aspect-cocoon://DRI/5/?pipelinehash=1109180072955441953
+2014-06-25 10:21:32,467 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/4/_T-Navigation-1
+2014-06-25 10:21:32,467 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/3/
+2014-06-25 10:21:32,467 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/2/
+2014-06-25 10:21:32,468 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-aspect-cocoon://DRI/1/_T-PageNotFound--2223765811167872118
+2014-06-25 10:21:32,491 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Cache MISS for PK_G-file-cocoon://DRI/_T-IncludePageMeta--5534495057400678945_T-IncludePageMeta-7145676799531262490_T-IncludePageMeta-7904007307692048974_T-xslt-jndi:/localhost/xmlui/themes/Mirage/Mirage.xsl_T-i18n-context://i18n/?pt_BR__S-xhtml-;doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN;doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd;encoding=UTF-8;indent=yes
+2014-06-25 10:21:32,742 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Caching new response for PK_G-aspect-cocoon://DRI/7/?pipelinehash=-8705202904055063501_T-Navigation-3450784280878095745_T-SidebarFacetsTransformer-0_T-FrontPageFeeds-1_T-SiteRecentSubmissions-0
+2014-06-25 10:21:32,759 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Caching new response for PK_G-aspect-cocoon://DRI/6/?pipelinehash=6933094160779810300_T-SystemwideAlerts-1_T-Navigation--2934097225836906407
+2014-06-25 10:21:32,759 INFO  org.apache.cocoon.caching.impl.CacheImpl  - Caching new response for PK_G-aspect-cocoon://DRI/5/?pipelinehash=1109180072955441953
+2014-06-25 10:21:32,764 INFO  cocoon.access  - '' Processed by Apache Cocoon in 666 milliseconds.

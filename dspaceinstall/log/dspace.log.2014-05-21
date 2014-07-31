@@ -1,0 +1,787 @@
+2014-05-21 08:41:46,715 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C43E95817EE5C9DF2273BAD6CAE1B9EE:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 08:41:47,096 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=334FBA768898D2821E382E317D07B76B:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 08:41:47,221 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 08:41:47,227 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 08:54:49,436 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=12A6830EEBA9A92343BF303947D91D1F:ip_addr=10.21.2.50:view_community_list:
+2014-05-21 08:54:49,438 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 08:54:49,520 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 11:14:52,571 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6F1789DBE607133EA062CA0ACA0AECF3:ip_addr=10.21.2.100:browse_mini:
+2014-05-21 11:14:52,586 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 11:15:00,378 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DE3E424052EE6D1DD94E81B7C8338E4A:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 11:15:00,381 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:15:58,949 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=1D7B4B7BE96C8A8AABCE6F5112AB08B2:ip_addr=10.21.0.78:browse_mini:
+2014-05-21 15:15:58,966 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 15:20:07,043 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C8A967CFCC3465037638F8BDA6169B02:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 15:20:07,057 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 15:20:19,761 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=C8A967CFCC3465037638F8BDA6169B02:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 15:20:19,776 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=C8A967CFCC3465037638F8BDA6169B02:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 15:20:19,830 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=C8A967CFCC3465037638F8BDA6169B02:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 15:20:19,847 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=C8A967CFCC3465037638F8BDA6169B02:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 15:20:19,854 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 15:21:12,980 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 15:29:55,576 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:29:55,577 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:29:59,781 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=2
+2014-05-21 15:29:59,899 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-21 15:30:13,647 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:30:13,716 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:31:07,995 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 15:31:08,009 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:authenticate:type=PasswordAuthentication
+2014-05-21 15:31:08,011 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_eperson:eperson_id=1
+2014-05-21 15:31:08,011 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:login:type=explicit
+2014-05-21 15:31:08,241 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:31:08,242 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:31:11,027 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:31:11,108 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:31:26,427 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:31:26,499 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-21 15:34:51,284 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=5
+2014-05-21 15:34:51,291 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:community_id=1logo_bitstream_id=5
+2014-05-21 15:34:51,293 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_community:community_id=1
+2014-05-21 15:34:51,316 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/1 to Index
+2014-05-21 15:34:54,101 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=5
+2014-05-21 15:34:56,983 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:34:56,985 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:34:57,068 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:34:58,770 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:34:58,839 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:34:59,042 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=5
+2014-05-21 15:38:03,810 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:38:03,811 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:38:05,814 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:38:05,884 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:38:09,377 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:38:09,502 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a2241745: 3
+2014-05-21 15:39:29,817 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=4
+2014-05-21 15:39:29,819 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_item:item_id=4
+2014-05-21 15:39:29,820 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_template_item:collection_id=1,template_item_id=4
+2014-05-21 15:39:29,821 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=1
+2014-05-21 15:39:29,826 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=4
+2014-05-21 15:39:29,846 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 15:41:49,372 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=4
+2014-05-21 15:42:05,218 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:42:05,219 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:42:05,393 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:42:07,137 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:42:07,346 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:42:09,342 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:42:09,418 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1b317c3c: 3
+2014-05-21 15:42:58,931 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=6
+2014-05-21 15:42:58,943 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=1logo_bitstream_id=6
+2014-05-21 15:42:58,945 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=1
+2014-05-21 15:42:59,195 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 15:42:59,451 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:42:59,516 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@8c7150ba: 3
+2014-05-21 15:42:59,678 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=6
+2014-05-21 15:43:26,553 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=5
+2014-05-21 15:43:26,555 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_item:item_id=5
+2014-05-21 15:43:26,569 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=5
+2014-05-21 15:43:26,575 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_workspace_item:workspace_item_id=-1item_id=5collection_id=1
+2014-05-21 15:43:26,632 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_workspace_item:workspace_item_id=4
+2014-05-21 15:43:26,635 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_item:item_id=5
+2014-05-21 15:43:26,643 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_workspace_item:workspace_item_id=4
+2014-05-21 15:43:26,646 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_item:item_id=5
+2014-05-21 15:43:26,648 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_workspace_item:workspace_item_id=4
+2014-05-21 15:43:26,650 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_item:item_id=5
+2014-05-21 15:43:26,773 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-05-21 15:43:44,303 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 15:43:44,323 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 15:43:44,460 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_bitstream:bitstream_id=5
+2014-05-21 15:43:44,461 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_bitstream:bitstream_id=5
+2014-05-21 15:43:48,416 INFO  org.dspace.app.webui.servlet.LogoutServlet @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:logout:
+2014-05-21 15:44:07,038 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:sendtoken_register:email=juninjnr@gmail.com
+2014-05-21 15:44:07,577 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:error_emailing:email=juninjnr@gmail.com
+javax.mail.MessagingException: Unknown SMTP host: smtp.example.com;
+  nested exception is:
+	java.net.UnknownHostException: smtp.example.com
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1280)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:370)
+	at javax.mail.Service.connect(Service.java:275)
+	at javax.mail.Service.connect(Service.java:156)
+	at javax.mail.Service.connect(Service.java:105)
+	at javax.mail.Transport.send0(Transport.java:168)
+	at javax.mail.Transport.send(Transport.java:98)
+	at org.dspace.core.Email.send(Email.java:359)
+	at org.dspace.eperson.AccountManager.sendEmail(AccountManager.java:262)
+	at org.dspace.eperson.AccountManager.sendInfo(AccountManager.java:222)
+	at org.dspace.eperson.AccountManager.sendRegistrationInfo(AccountManager.java:67)
+	at org.dspace.app.webui.servlet.RegisterServlet.processEnterEmail(RegisterServlet.java:260)
+	at org.dspace.app.webui.servlet.RegisterServlet.doDSPost(RegisterServlet.java:172)
+	at org.dspace.app.webui.servlet.DSpaceServlet.processRequest(DSpaceServlet.java:115)
+	at org.dspace.app.webui.servlet.DSpaceServlet.doPost(DSpaceServlet.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:646)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.UnknownHostException: smtp.example.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:232)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:189)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1250)
+	... 38 more
+2014-05-21 15:44:11,927 INFO  org.dspace.content.WorkspaceItem @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_workspace_item:workspace_item_id=4
+2014-05-21 15:44:11,929 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:update_item:item_id=5
+2014-05-21 15:44:32,591 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:44:32,592 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:44:32,675 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:44:34,230 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:44:34,302 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:44:37,033 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:44:37,101 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@8c7150ba: 3
+2014-05-21 15:44:44,859 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:44:44,929 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@8c7150ba: 3
+2014-05-21 15:44:46,607 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=6
+2014-05-21 15:45:12,421 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_template_item:collection_id=1,template_item_id=4
+2014-05-21 15:45:12,422 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_item:item_id=4
+2014-05-21 15:45:13,128 WARN  org.dspace.discovery.IndexEventConsumer @ got null detail on DELETE event, skipping it.
+2014-05-21 15:45:13,147 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for ITEM id=4, perhaps it has been deleted.
+2014-05-21 15:45:13,164 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 15:45:17,524 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 15:45:17,559 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 15:45:17,717 INFO  org.dspace.app.webui.servlet.RetrieveServlet @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_bitstream:bitstream_id=5
+2014-05-21 15:45:17,719 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:view_bitstream:bitstream_id=5
+2014-05-21 15:45:18,234 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=6
+2014-05-21 15:45:18,236 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_item:item_id=6
+2014-05-21 15:45:18,236 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_template_item:collection_id=1,template_item_id=6
+2014-05-21 15:45:18,238 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=1
+2014-05-21 15:45:18,243 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=6
+2014-05-21 15:45:18,263 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 15:54:06,915 INFO  org.dspace.content.Item @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_item:item_id=6
+2014-05-21 15:54:24,603 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:54:24,604 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:54:24,753 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:54:34,881 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:54:34,955 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:54:46,375 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 15:54:46,444 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3e21dcbc: 3
+2014-05-21 15:56:22,897 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_item:handle=123456789/4
+2014-05-21 15:57:08,994 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:57:08,995 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:57:10,473 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:57:10,606 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:57:12,077 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 15:57:12,092 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 15:57:12,094 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 15:57:12,096 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=21BFC68BF4DBA203FA8215BE9A7D9449:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 15:57:12,103 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=72DB7F42C1BCFDC6337CDAA456135CB9:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 15:57:34,898 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=72DB7F42C1BCFDC6337CDAA456135CB9:ip_addr=10.21.2.50:create_eperson:eperson_id=4
+2014-05-21 15:57:34,901 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=72DB7F42C1BCFDC6337CDAA456135CB9:ip_addr=10.21.2.50:update_eperson:eperson_id=4
+2014-05-21 15:59:23,827 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_collection:collection_id=12,handle=123456789/16
+2014-05-21 15:59:23,828 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:add_collection:community_id=1,collection_id=12
+2014-05-21 15:59:23,891 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=7
+2014-05-21 15:59:23,897 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=12logo_bitstream_id=7
+2014-05-21 15:59:23,899 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=12
+2014-05-21 15:59:23,931 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-21 15:59:26,060 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 15:59:26,063 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 15:59:27,235 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 15:59:27,312 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 15:59:28,675 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 15:59:28,743 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a08a: 3
+2014-05-21 15:59:28,900 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=7
+2014-05-21 16:00:21,358 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:00:21,359 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:00:23,129 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:00:23,208 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:00:24,840 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:00:24,906 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a08a: 3
+2014-05-21 16:00:28,507 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=7
+2014-05-21 16:00:32,248 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_bitstream:bitstream_id=7
+2014-05-21 16:00:32,267 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_logo:collection_id=12
+2014-05-21 16:00:32,269 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=12
+2014-05-21 16:00:32,289 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-21 16:01:16,515 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=8
+2014-05-21 16:01:16,519 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=12logo_bitstream_id=8
+2014-05-21 16:01:16,521 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=12
+2014-05-21 16:01:16,548 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-21 16:01:16,686 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:01:16,750 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0a9: 3
+2014-05-21 16:01:16,883 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=8
+2014-05-21 16:01:18,747 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:01:18,748 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:01:20,076 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:01:20,150 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:01:23,567 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:01:23,666 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0a9: 3
+2014-05-21 16:01:40,773 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:01:40,774 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:01:42,803 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:01:42,883 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:01:44,865 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:01:44,928 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0a9: 3
+2014-05-21 16:01:48,487 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:01:48,697 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:01:52,607 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:01:52,755 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0a9: 3
+2014-05-21 16:01:54,654 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=8
+2014-05-21 16:01:58,313 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_bitstream:bitstream_id=8
+2014-05-21 16:01:58,317 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_logo:collection_id=12
+2014-05-21 16:01:58,318 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=12
+2014-05-21 16:01:58,338 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-21 16:04:19,916 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=9
+2014-05-21 16:04:19,921 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=12logo_bitstream_id=9
+2014-05-21 16:04:19,922 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=12
+2014-05-21 16:04:19,948 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-21 16:04:20,305 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:04:20,433 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0c8: 3
+2014-05-21 16:04:20,611 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=9
+2014-05-21 16:04:21,814 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:04:21,889 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:04:27,290 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:04:27,356 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0c8: 3
+2014-05-21 16:04:48,195 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:04:48,196 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:04:51,808 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:04:51,879 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:04:55,789 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 16:04:55,860 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3e21dcbc: 3
+2014-05-21 16:05:07,695 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:05:07,695 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:05:09,377 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:05:09,448 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:05:11,346 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 16:05:11,411 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3e21dcbc: 3
+2014-05-21 16:05:16,486 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_bitstream:bitstream_id=6
+2014-05-21 16:05:16,491 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_logo:collection_id=1
+2014-05-21 16:05:16,493 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=1
+2014-05-21 16:05:16,511 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 16:05:22,414 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=10
+2014-05-21 16:05:22,419 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=1logo_bitstream_id=10
+2014-05-21 16:05:22,421 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=1
+2014-05-21 16:05:22,441 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/2 to Index
+2014-05-21 16:05:22,646 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=1
+2014-05-21 16:05:22,722 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@861963a1: 3
+2014-05-21 16:05:22,950 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=10
+2014-05-21 16:05:50,782 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:05:50,860 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:05:53,314 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=12
+2014-05-21 16:05:53,376 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ba66a0c8: 3
+2014-05-21 16:06:01,172 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:06:01,172 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:06:01,254 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:07:48,956 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_community:community_id=3,handle=123456789/17
+2014-05-21 16:07:49,012 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=11
+2014-05-21 16:07:49,016 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:community_id=3logo_bitstream_id=11
+2014-05-21 16:07:49,018 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_community:community_id=3
+2014-05-21 16:07:49,038 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/17 to Index
+2014-05-21 16:07:49,347 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=11
+2014-05-21 16:07:51,224 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:07:51,225 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:07:51,305 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:07:52,353 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:07:52,424 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:07:52,549 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=11
+2014-05-21 16:08:12,399 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_logo:community_id=3
+2014-05-21 16:08:12,400 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_bitstream:bitstream_id=11
+2014-05-21 16:08:12,410 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_community:community_id=3
+2014-05-21 16:08:12,435 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/17 to Index
+2014-05-21 16:08:14,436 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:08:14,438 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:08:14,578 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:09:21,399 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:09:21,465 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:09:37,561 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=12
+2014-05-21 16:09:37,566 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:community_id=3logo_bitstream_id=12
+2014-05-21 16:09:37,567 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_community:community_id=3
+2014-05-21 16:09:37,585 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/17 to Index
+2014-05-21 16:09:37,745 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=12
+2014-05-21 16:09:39,705 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:09:39,707 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:09:39,785 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:09:41,697 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:09:41,760 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:09:41,918 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=12
+2014-05-21 16:12:10,227 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:12:10,245 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:12:12,412 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:12:12,589 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:12:16,256 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=2
+2014-05-21 16:12:16,348 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-21 16:12:21,971 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:12:22,134 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:12:26,012 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:12:26,288 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:13:07,677 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:13:07,678 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:13:18,780 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:13:18,892 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:14:08,623 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:add_subcommunity:parent_comm_id=1,child_comm_id=4
+2014-05-21 16:14:08,669 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_community:community_id=4,handle=123456789/18
+2014-05-21 16:14:08,669 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:add_subcommunity:parent_comm_id=1,child_comm_id=4
+2014-05-21 16:14:08,672 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_community:community_id=4
+2014-05-21 16:14:08,758 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/18 to Index
+2014-05-21 16:14:10,994 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:14:10,998 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:14:14,499 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=1
+2014-05-21 16:14:14,572 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-21 16:14:18,849 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=4
+2014-05-21 16:14:18,963 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@279: 3
+2014-05-21 16:15:49,911 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=4
+2014-05-21 16:15:50,012 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@279: 3
+2014-05-21 16:16:16,356 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:delete_community:community_id=4
+2014-05-21 16:16:17,381 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:remove_subcommunity:parent_comm_id=1,child_comm_id=4
+2014-05-21 16:16:17,390 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for COMMUNITY id=4, perhaps it has been deleted.
+2014-05-21 16:16:17,392 WARN  org.dspace.discovery.IndexEventConsumer @ REMOVE event, could not get object for COMMUNITY id=4, perhaps it has been deleted.
+2014-05-21 16:16:17,785 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:16:28,112 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:16:28,299 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:17:45,849 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_collection:collection_id=13,handle=123456789/19
+2014-05-21 16:17:45,850 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:add_collection:community_id=3,collection_id=13
+2014-05-21 16:17:45,865 INFO  org.dspace.content.Bitstream @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_bitstream:bitstream_id=13
+2014-05-21 16:17:45,869 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:set_logo:collection_id=13logo_bitstream_id=13
+2014-05-21 16:17:45,870 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=13
+2014-05-21 16:17:45,899 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/19 to Index
+2014-05-21 16:17:54,092 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=13
+2014-05-21 16:17:55,936 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:17:55,937 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:17:57,338 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:17:57,409 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:17:59,675 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=13
+2014-05-21 16:17:59,739 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@4a1fbc19: 3
+2014-05-21 16:17:59,873 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_bitstream:bitstream_id=13
+2014-05-21 16:18:09,950 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:18:09,951 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:18:12,382 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:18:12,444 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:19:16,640 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:create_collection:collection_id=14,handle=123456789/20
+2014-05-21 16:19:16,641 INFO  org.dspace.content.Community @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:add_collection:community_id=3,collection_id=14
+2014-05-21 16:19:16,645 INFO  org.dspace.content.Collection @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:update_collection:collection_id=14
+2014-05-21 16:19:16,666 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/20 to Index
+2014-05-21 16:19:19,126 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:19:19,127 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:19:20,571 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:19:20,640 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:19:22,173 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_collection:collection_id=14
+2014-05-21 16:19:22,249 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@7ed267d5: 3
+2014-05-21 16:19:30,126 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=4EA529C4FB79B2C32FBF0BB04B1298ED:ip_addr=10.21.0.78:view_community:community_id=3
+2014-05-21 16:19:30,202 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@278: 3
+2014-05-21 16:31:49,232 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-21 16:32:04,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-21 16:32:04,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-21 16:32:04,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-21 16:32:04,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-21 16:32:04,759 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-21 16:34:23,639 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 16:34:25,912 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:34:25,914 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:34:25,942 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 16:34:25,979 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:34:25,997 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:34:42,544 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:sendtoken_register:email=juninjnr@gmail.com
+2014-05-21 16:34:48,069 INFO  org.dspace.eperson.AccountManager @ Sent registration information to juninjnr@gmail.com
+2014-05-21 16:35:00,974 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=ADE9E37EE108791DE12033A304DAAEF6:ip_addr=10.21.0.78:browse_mini:
+2014-05-21 16:35:01,028 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=ADE9E37EE108791DE12033A304DAAEF6:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:01,029 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=ADE9E37EE108791DE12033A304DAAEF6:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:01,030 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 16:35:01,064 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=ADE9E37EE108791DE12033A304DAAEF6:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:01,099 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=ADE9E37EE108791DE12033A304DAAEF6:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:22,278 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:35:22,359 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:35:23,026 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:23,040 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:23,142 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:23,143 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:26,187 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:35:26,203 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:26,217 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:52,353 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 16:35:52,354 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:35:52,368 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:52,379 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:35:52,402 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:35:52,403 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C0CA388CA13193893F9A8476A27E311F:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:36:35,366 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ anonymous:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:view_profile:
+2014-05-21 16:37:10,535 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:create_eperson:eperson_id=1
+2014-05-21 16:37:10,546 INFO  org.dspace.eperson.EPerson @ anonymous:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 16:37:10,554 INFO  org.dspace.eperson.EPerson @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 16:37:10,556 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2014-05-21 16:37:10,675 INFO  org.dspace.eperson.EPerson @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 16:37:10,733 INFO  org.dspace.event.EventManager @ 
+2014-05-21 16:37:16,150 INFO  org.dspace.eperson.EPersonConsumer @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:registerion_alert:user=juninjnr@gmail.com
+2014-05-21 16:37:21,847 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:view_community_list:
+2014-05-21 16:37:21,849 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 16:37:21,881 ERROR org.dspace.discovery.SolrServiceImpl @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:37:21,895 ERROR org.dspace.discovery.SolrServiceImpl @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:37:21,937 ERROR org.dspace.discovery.SolrServiceImpl @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:37:21,939 ERROR org.dspace.discovery.SolrServiceImpl @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:37:26,891 INFO  org.dspace.app.xmlui.aspect.eperson.EditProfile @ juninjnr@gmail.com:session_id=6A87A1C6AAF577761EB88AF494C2F22C:ip_addr=10.21.2.50:view_profile:
+2014-05-21 16:37:33,503 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 16:37:33,522 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:37:33,524 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:37:33,524 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 16:37:33,535 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 16:37:33,548 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 16:37:41,941 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:authenticate:attempting password auth of user=juninjnr@gmail.com
+2014-05-21 16:37:42,150 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:failed_login:email=juninjnr@gmail.com, result=2
+2014-05-21 16:37:46,887 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:authenticate:attempting password auth of user=juninjnr@gmail.com
+2014-05-21 16:37:46,901 INFO  org.dspace.authenticate.PasswordAuthentication @ juninjnr@gmail.com:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 16:37:46,907 INFO  org.dspace.eperson.EPerson @ juninjnr@gmail.com:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 16:37:46,982 INFO  org.dspace.app.webui.servlet.PasswordServlet @ juninjnr@gmail.com:session_id=4E3F00AE645BD4ADDEC5D51BEE31759E:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 16:37:47,017 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ juninjnr@gmail.com:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 16:40:29,694 INFO  org.dspace.app.webui.servlet.LogoutServlet @ juninjnr@gmail.com:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:logout:
+2014-05-21 16:40:35,258 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 16:40:35,259 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:failed_login:email=edmarfagunde@gmail.com, result=4
+2014-05-21 16:40:39,781 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 16:40:39,783 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:failed_login:email=edmarfagunde@gmail.com, result=4
+2014-05-21 16:43:57,693 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/dspaceinstall/config/dspace.cfg
+2014-05-21 16:43:57,815 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-05-21 16:43:57,815 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/dspaceinstall/config/log4j.properties
+2014-05-21 16:44:31,973 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/dspaceinstall/config/dspace.cfg
+2014-05-21 16:44:32,065 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-05-21 16:44:32,065 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/dspaceinstall/config/log4j.properties
+2014-05-21 16:44:41,672 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-21 16:44:54,964 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=2
+2014-05-21 16:44:54,973 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.6
+2014-05-21 16:44:55,067 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=2
+2014-05-21 16:44:55,176 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-05-21 16:44:55,179 INFO  org.dspace.event.EventManager @ 
+2014-05-21 16:44:55,695 INFO  org.dspace.eperson.EPersonConsumer @ anonymous::registerion_alert:user=edmarfagunde@gmail.com
+2014-05-21 16:45:04,736 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 16:45:04,750 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 16:45:04,752 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:update_eperson:eperson_id=2
+2014-05-21 16:45:04,758 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=4D1C5DD23ED916BC0F9699E321867433:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 16:45:04,775 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=01328108CDA69C733B2F567E8DA6F757:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 16:45:15,836 INFO  org.dspace.app.webui.servlet.admin.MetadataSchemaRegistryServlet @ Showing Schemas
+2014-05-21 16:45:35,427 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=01328108CDA69C733B2F567E8DA6F757:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 16:45:37,877 INFO  org.dspace.app.webui.servlet.EditProfileServlet @ edmarfagunde@gmail.com:session_id=01328108CDA69C733B2F567E8DA6F757:ip_addr=10.21.2.50:view_profile:
+2014-05-21 17:17:45,439 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-21 17:17:45,698 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-21 17:17:45,698 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-21 17:17:45,698 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-21 17:17:45,699 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-21 17:17:45,699 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-21 17:17:45,699 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-21 17:17:45,703 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-21 17:17:45,703 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-21 17:17:45,703 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-21 17:19:47,055 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 17:19:48,410 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:19:48,412 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:19:48,468 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:19:48,520 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:19:48,558 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:20:24,201 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/dspaceinstall/config/dspace.cfg
+2014-05-21 17:20:24,280 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-05-21 17:20:24,280 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/dspaceinstall/config/log4j.properties
+2014-05-21 17:20:31,515 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-21 17:20:54,972 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=1
+2014-05-21 17:20:54,982 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.6
+2014-05-21 17:20:55,109 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=1
+2014-05-21 17:20:55,176 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-05-21 17:20:55,180 INFO  org.dspace.event.EventManager @ 
+2014-05-21 17:20:55,561 INFO  org.dspace.eperson.EPersonConsumer @ anonymous::registerion_alert:user=edmarfagunde@gmail.com
+2014-05-21 17:21:05,476 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 17:21:05,638 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 17:21:05,643 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 17:21:05,705 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=148BBBE738A934EBF6003E04CB64DC8A:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 17:21:05,875 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 17:21:20,604 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 17:21:20,668 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:21:20,674 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:21:20,674 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:21:20,707 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:21:20,721 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:21:22,335 INFO  org.dspace.app.webui.servlet.LogoutServlet @ edmarfagunde@gmail.com:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:logout:
+2014-05-21 17:21:33,691 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:sendtoken_register:email=juninjnr@gmail.com
+2014-05-21 17:21:34,107 INFO  org.dspace.eperson.AccountManager @ Sent registration information to juninjnr@gmail.com
+2014-05-21 17:21:41,987 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 17:21:42,138 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:21:42,140 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:21:42,141 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:21:42,153 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:21:42,166 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=60412F0245144CE7A4C9FE14F3CE0979:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:34,874 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=EF24AC46FB260DDEC3E9C26D756EAE02:ip_addr=10.21.2.100:browse_mini:
+2014-05-21 17:31:34,931 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF24AC46FB260DDEC3E9C26D756EAE02:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:34,932 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF24AC46FB260DDEC3E9C26D756EAE02:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:34,932 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:31:34,961 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF24AC46FB260DDEC3E9C26D756EAE02:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:34,988 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF24AC46FB260DDEC3E9C26D756EAE02:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:55,133 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:31:55,138 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=70304F1DFDA44A69E95E11278EF81C84:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:31:55,199 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:31:55,199 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:31:55,218 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=6240D58C6A585C68DF37463A4D576F48:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:31:55,225 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:31:56,113 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,144 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:56,198 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=70304F1DFDA44A69E95E11278EF81C84:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,219 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=70304F1DFDA44A69E95E11278EF81C84:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:56,237 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6240D58C6A585C68DF37463A4D576F48:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,262 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6240D58C6A585C68DF37463A4D576F48:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:56,639 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,643 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6240D58C6A585C68DF37463A4D576F48:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,644 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6240D58C6A585C68DF37463A4D576F48:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:56,653 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:31:56,658 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=70304F1DFDA44A69E95E11278EF81C84:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:31:56,659 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=70304F1DFDA44A69E95E11278EF81C84:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:32:25,085 INFO  org.dspace.eperson.AccountManager @ Sent registration information to jronaldo@stj.jus.br
+2014-05-21 17:34:09,187 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 17:34:09,375 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-21 17:34:09,381 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:update_eperson:eperson_id=1
+2014-05-21 17:34:09,381 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:login:type=explicit
+2014-05-21 17:34:09,684 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:34:09,685 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:34:09,701 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:34:09,716 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:34:09,738 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:34:09,740 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:34:46,786 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:create_eperson:eperson_id=2
+2014-05-21 17:34:46,797 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:update_eperson:eperson_id=2
+2014-05-21 17:34:46,805 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:update_eperson:eperson_id=2
+2014-05-21 17:34:46,828 INFO  org.dspace.event.EventManager @ 
+2014-05-21 17:34:52,067 INFO  org.dspace.eperson.EPersonConsumer @ edmarfagunde@gmail.com:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:registerion_alert:user=jronaldo@stj.jus.br
+2014-05-21 17:34:56,047 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:34:56,048 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:34:56,060 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:34:56,071 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:34:56,105 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:34:56,107 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:07,689 INFO  org.dspace.eperson.AccountManager @ Sent account information to jronaldo@stj.jus.br
+2014-05-21 17:35:14,083 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:view_community_list:
+2014-05-21 17:35:14,084 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:35:14,091 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:14,098 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:14,112 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:14,113 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:21,893 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:browse_mini:
+2014-05-21 17:35:21,915 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:21,918 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:21,918 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:35:21,929 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:21,940 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:36,846 INFO  org.dspace.eperson.AccountManager @ Sent registration information to ronaldovieira.df@gmail.com
+2014-05-21 17:35:39,452 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:authenticate:attempting password auth of user=edimarfagunde@gmail.com
+2014-05-21 17:35:39,455 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:failed_login:email=edimarfagunde@gmail.com, result=4
+2014-05-21 17:35:47,034 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 17:35:48,003 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:authenticate:type=PasswordAuthentication
+2014-05-21 17:35:48,005 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:update_eperson:eperson_id=1
+2014-05-21 17:35:48,010 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=776659627995E00A3F3273EC54708D57:ip_addr=10.21.3.122:login:type=explicit
+2014-05-21 17:35:48,020 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:view_mydspace:
+2014-05-21 17:35:54,569 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:browse_mini:
+2014-05-21 17:35:54,584 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:54,586 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:35:54,586 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:35:54,600 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:35:54,613 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:38:20,745 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:38:20,746 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:38:20,763 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:38:20,780 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:38:20,807 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:38:20,809 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:39:55,104 INFO  org.dspace.app.webui.servlet.LogoutServlet @ edmarfagunde@gmail.com:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:logout:
+2014-05-21 17:40:01,454 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 17:40:01,455 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:40:01,488 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:40:01,499 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:40:01,524 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:40:01,525 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:40:05,430 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:browse_mini:
+2014-05-21 17:40:05,445 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:40:05,446 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:40:05,447 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 17:40:05,466 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:40:05,480 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:40:25,074 INFO  org.dspace.eperson.AccountManager @ Sent registration information to souzam@stj.jus.br
+2014-05-21 17:40:25,737 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:authenticate:attempting password auth of user=scarlos@stj.jus.br
+2014-05-21 17:40:25,738 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:failed_login:email=scarlos@stj.jus.br, result=4
+2014-05-21 17:40:52,000 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=72C9858201C859924E47A28377C9E9D7:ip_addr=10.21.3.122:sendtoken_register:email=scarlos@stj.jus.br
+2014-05-21 17:40:52,155 INFO  org.dspace.eperson.AccountManager @ Sent registration information to scarlos@stj.jus.br
+2014-05-21 17:41:52,099 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:view_community_list:
+2014-05-21 17:41:52,100 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:41:52,111 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:41:52,122 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:41:52,145 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:41:52,146 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=54763127E4CA85F83600CBC78F620B3E:ip_addr=10.21.3.122:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:44:15,155 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 17:44:15,156 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:44:15,168 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:44:15,179 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:44:15,211 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:44:15,213 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:08,077 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:view_community_list:
+2014-05-21 17:45:08,078 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:08,102 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:08,121 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:08,172 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:08,176 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=76248B01F351DACE78CFB8F110AC58DA:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:10,927 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:14,991 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:14,992 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:15,004 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:15,008 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:15,023 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:15,023 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:15,877 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:15,878 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:15,895 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:15,910 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:15,942 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:15,943 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:16,267 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:16,268 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:16,278 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:16,288 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:16,305 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:16,307 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:16,977 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:16,978 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:16,989 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:16,999 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:17,017 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:17,018 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:17,324 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:17,326 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:17,335 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:17,352 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:17,395 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:17,396 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:17,750 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:17,751 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:17,763 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:17,772 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:17,795 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:17,795 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:18,161 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:18,162 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:18,179 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:18,190 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:18,213 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:18,213 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:18,871 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:view_community_list:
+2014-05-21 17:45:18,872 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 17:45:18,881 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:18,890 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 17:45:18,917 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 17:45:18,918 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5821CA56DBDC24FEB0FD104C40B25E4F:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:17:50,760 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-21 18:17:50,943 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-21 18:17:50,947 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-21 18:23:57,152 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-21 18:24:10,736 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-21 18:24:11,282 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-21 18:24:11,286 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-21 18:24:11,286 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-21 18:24:11,297 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-21 18:25:31,209 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-05-21 18:25:39,273 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 18:25:39,274 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=183B051DD8DBD2985800154C50CFE5C2:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 18:25:42,396 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:25:42,395 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=183B051DD8DBD2985800154C50CFE5C2:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:25:42,398 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:25:42,400 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=183B051DD8DBD2985800154C50CFE5C2:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:25:42,425 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 18:25:42,426 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 18:25:42,483 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=183B051DD8DBD2985800154C50CFE5C2:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:25:42,492 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:25:42,556 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:25:42,558 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=183B051DD8DBD2985800154C50CFE5C2:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:25:53,424 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-21 18:25:53,934 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-21 18:25:53,994 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-21 18:25:54,038 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=813AD9C81FB036FACDC451B2CE113570:ip_addr=10.21.2.50:login:type=explicit
+2014-05-21 18:25:54,052 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:view_mydspace:
+2014-05-21 18:26:26,497 INFO  org.dspace.app.webui.servlet.LogoutServlet @ edmarfagunde@gmail.com:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:logout:
+2014-05-21 18:26:28,700 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 18:26:28,724 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:26:28,726 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:26:28,726 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 18:26:28,738 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:26:28,751 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:26:44,175 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:sendtoken_register:email=lmaia@stj.jus.br
+2014-05-21 18:26:49,829 INFO  org.dspace.eperson.AccountManager @ Sent registration information to lmaia@stj.jus.br
+2014-05-21 18:33:17,112 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-21 18:33:32,518 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-21 18:33:32,752 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-21 18:33:32,752 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-21 18:33:32,752 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-21 18:33:32,753 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-21 18:33:32,754 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-21 18:33:32,754 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-21 18:33:32,754 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-21 18:33:32,754 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-21 18:33:32,754 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-21 18:39:33,492 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=52353E13FC557A8961DBCCA7D382F4FB:ip_addr=10.21.2.50:view_community_list:
+2014-05-21 18:39:33,655 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-21 18:39:36,489 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=52353E13FC557A8961DBCCA7D382F4FB:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:39:36,507 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=52353E13FC557A8961DBCCA7D382F4FB:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:39:36,730 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=52353E13FC557A8961DBCCA7D382F4FB:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:39:36,731 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=52353E13FC557A8961DBCCA7D382F4FB:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:40:14,716 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 18:40:14,719 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:browse_mini:
+2014-05-21 18:40:15,364 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:40:15,366 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:40:15,362 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:40:15,369 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:40:15,395 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 18:40:15,397 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-21 18:40:15,435 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:40:15,442 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-21 18:40:15,500 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:40:15,501 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-21 18:40:42,498 INFO  org.dspace.app.webui.servlet.RegisterServlet @ anonymous:session_id=6F6DBFB3212B95BB3289DFD671A9EB6A:ip_addr=10.21.2.50:sendtoken_register:email=lmaia@stj.jus.br
+2014-05-21 18:40:42,895 INFO  org.dspace.eperson.AccountManager @ Sent registration information to lmaia@stj.jus.br

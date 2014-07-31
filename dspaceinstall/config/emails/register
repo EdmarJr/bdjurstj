@@ -1,0 +1,15 @@
+# E-mail sent to DSpace users when they register for an account
+#
+# Parameters: {0} is expanded to a special registration URL
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Registro de Conta no BDJur
+Para completar o registro da tua nova conta no BDJur, por favor, clique no link abaixo:
+
+  {0}
+
+Se precisares de suporte para completar o registro, envie um e-mail para:
+bdjur@stj.jus.br.
+
+Equipe da Biblioteca Ministro Oscar Saraiva.

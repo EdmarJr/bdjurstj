@@ -1,0 +1,604 @@
+2014-06-02 14:47:13,519 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=8C5677B9CCA8169DA1702FF8D5E48266:ip_addr=10.21.1.112:browse_mini:
+2014-06-02 14:47:13,931 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8C5677B9CCA8169DA1702FF8D5E48266:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:13,931 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-06-02 14:47:14,044 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8C5677B9CCA8169DA1702FF8D5E48266:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:20,782 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 14:47:20,783 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 14:47:20,795 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:20,825 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:23,838 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 14:47:24,049 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 14:47:49,459 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-02 14:47:49,478 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:authenticate:type=PasswordAuthentication
+2014-06-02 14:47:49,570 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:update_eperson:eperson_id=3
+2014-06-02 14:47:49,571 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:login:type=explicit
+2014-06-02 14:47:49,784 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 14:47:49,785 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 14:47:49,794 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:49,816 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 14:47:51,748 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 14:47:51,831 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 14:52:02,552 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-02 14:52:02,588 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-02 14:52:19,756 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:update_item:item_id=3
+2014-06-02 14:52:19,777 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:create_item:item_id=3
+2014-06-02 14:52:19,848 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:update_item:item_id=3
+2014-06-02 14:52:19,850 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:create_workspace_item:workspace_item_id=-1item_id=3collection_id=2
+2014-06-02 14:52:19,870 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=3
+2014-06-02 14:52:19,872 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=3
+2014-06-02 14:52:19,882 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=3
+2014-06-02 14:52:19,885 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=3
+2014-06-02 14:52:19,888 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=3
+2014-06-02 14:52:19,891 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=3
+2014-06-02 14:56:34,541 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:57:03,441 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:57:16,042 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:57:22,935 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:57:27,745 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:57:43,019 INFO  org.dspace.app.xmlui.aspect.administrative.FlowMetadataImportUtils @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:metadataimport:loading file
+2014-06-02 14:58:14,936 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 14:58:14,936 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 14:58:14,978 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 14:58:17,145 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 14:58:17,146 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 14:58:35,204 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:delete_workspace_item:workspace_item_id=3item_id=3collection_id=2
+2014-06-02 14:58:35,221 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:ip_addr=10.21.1.112:delete_item:item_id=3
+2014-06-02 14:58:35,463 WARN  org.dspace.discovery.IndexEventConsumer @ got null detail on DELETE event, skipping it.
+2014-06-02 14:58:35,471 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for ITEM id=3, perhaps it has been deleted.
+2014-06-02 14:58:40,622 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=2
+2014-06-02 14:58:40,625 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=2
+2014-06-02 14:58:40,801 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 15:02:00,718 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=2
+2014-06-02 15:02:00,719 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=2
+2014-06-02 15:02:00,926 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 15:03:44,876 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_workspace_item:workspace_item_id=2
+2014-06-02 15:03:44,881 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=F828F93BFFFD5AC5FB2F64CBA01814D4:update_item:item_id=2
+2014-06-02 15:52:54,619 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 15:52:54,620 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 15:52:54,629 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:52:54,651 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:53:10,234 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-02 15:53:10,241 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:authenticate:type=PasswordAuthentication
+2014-06-02 15:53:10,241 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:update_eperson:eperson_id=3
+2014-06-02 15:53:10,241 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:login:type=explicit
+2014-06-02 15:53:10,316 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 15:53:10,317 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 15:53:10,320 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:53:10,331 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:53:10,351 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 15:53:10,354 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:53:17,284 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:17,289 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:17,360 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 15:53:20,491 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:20,494 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:23,357 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:23,358 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:41,576 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:create_bundle:bundle_id=3
+2014-06-02 15:53:41,577 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bundle:bundle_id=3
+2014-06-02 15:53:41,578 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bundle:item_id=2,bundle_id=3
+2014-06-02 15:53:41,696 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:create_bitstream:bitstream_id=3
+2014-06-02 15:53:41,699 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bitstream:bundle_id=3,bitstream_id=3
+2014-06-02 15:53:41,852 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bundle:item_id=2,bundle_id=3
+2014-06-02 15:53:41,884 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bitstream:bitstream_id=3
+2014-06-02 15:53:41,886 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:41,886 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bitstream:bitstream_id=3
+2014-06-02 15:53:41,892 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:41,892 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:50,914 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:50,915 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:54,431 INFO  org.dspace.submit.step.LicenseStep @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:accept_license:workspace_item_id2
+2014-06-02 15:53:54,434 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:create_bundle:bundle_id=4
+2014-06-02 15:53:54,434 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bundle:bundle_id=4
+2014-06-02 15:53:54,436 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bundle:item_id=2,bundle_id=4
+2014-06-02 15:53:54,463 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:create_bitstream:bitstream_id=4
+2014-06-02 15:53:54,465 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bitstream:bundle_id=4,bitstream_id=4
+2014-06-02 15:53:54,471 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_bundle:item_id=2,bundle_id=4
+2014-06-02 15:53:54,472 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bitstream:bitstream_id=4
+2014-06-02 15:53:54,474 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_workspace_item:workspace_item_id=2
+2014-06-02 15:53:54,475 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:54,476 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_bitstream:bitstream_id=4
+2014-06-02 15:53:54,482 INFO  org.dspace.submit.step.CompleteStep @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:submission_complete:Completed submission with id=2
+2014-06-02 15:53:54,483 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:start_workflow:workspace_item_id=2item_id=2collection_id=2
+2014-06-02 15:53:54,500 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:54,549 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:delete_workspace_item:workspace_item_id=2item_id=2collection_id=2
+2014-06-02 15:53:55,232 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:archive_item:workflow_item_id=2item_id=2collection_id=2
+2014-06-02 15:53:55,262 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:55,306 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:add_item:collection_id=2,item_id=2
+2014-06-02 15:53:55,367 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:update_item:item_id=2
+2014-06-02 15:53:55,402 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:install_item:workflow_id=2, item_id=2handle=FIXME
+2014-06-02 15:54:01,986 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:workflow_item:handle=123456789/19
+2014-06-02 15:54:01,994 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:advance_workflow:workflow_item_id=2,item_id=2,collection_id=2,old_state=6,new_state=7
+2014-06-02 15:54:01,994 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:workflow_item:handle=123456789/19
+2014-06-02 15:54:02,001 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:advance_workflow:workflow_item_id=2,item_id=2,collection_id=2,old_state=4,new_state=7
+2014-06-02 15:54:02,002 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:workflow_item:handle=123456789/19
+2014-06-02 15:54:02,007 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:advance_workflow:workflow_item_id=2,item_id=2,collection_id=2,old_state=2,new_state=7
+2014-06-02 15:54:02,007 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:workflow_item:handle=123456789/19
+2014-06-02 15:54:02,011 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:advance_workflow:workflow_item_id=2,item_id=2,collection_id=2,old_state=0,new_state=7
+2014-06-02 15:54:05,277 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 15:54:31,818 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 15:54:31,819 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 15:54:31,825 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:54:31,867 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:54:31,891 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 15:54:31,895 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 15:54:33,734 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 15:54:33,797 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 15:54:36,761 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-02 15:54:36,843 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-02 15:54:38,493 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 16:07:48,888 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 16:07:49,091 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 16:08:11,945 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 16:08:12,121 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 16:08:43,142 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 16:08:43,219 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 16:09:03,535 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-02 16:09:03,611 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-02 16:09:06,044 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 16:09:07,997 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 16:14:09,941 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 16:14:09,941 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 16:14:09,950 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 16:14:09,970 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 16:14:10,010 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 16:14:10,019 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 16:20:21,099 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 16:20:21,198 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 16:20:30,606 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=46AFE6764D8BFDA58BA97AAB54D25851:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 16:20:30,636 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 17:23:27,867 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-02 17:23:27,874 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:authenticate:type=PasswordAuthentication
+2014-06-02 17:23:27,874 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_eperson:eperson_id=3
+2014-06-02 17:23:27,875 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:login:type=explicit
+2014-06-02 17:23:28,043 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:23:28,044 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_item:item_id=4
+2014-06-02 17:23:28,053 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:23:28,054 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_workspace_item:workspace_item_id=-1item_id=4collection_id=3
+2014-06-02 17:23:28,055 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:23:28,056 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:23:28,061 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:23:28,061 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:23:28,062 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:23:28,063 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:23:41,884 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:23:41,891 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:23:41,944 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:23:50,973 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:23:50,974 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:23:51,031 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:23:51,031 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:24:29,272 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:24:29,273 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:24:29,377 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:24:29,377 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:24:29,377 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:26:48,070 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:26:48,073 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:26:48,106 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:26:48,112 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:26:57,161 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:26:57,162 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:27:03,198 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:27:03,200 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:27:10,708 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:27:10,711 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:27:40,022 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:27:40,023 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:27:45,871 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:27:45,881 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:28:21,064 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:28:21,065 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:28:21,072 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:28:21,073 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:28:44,234 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=5
+2014-06-02 17:28:44,235 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=5
+2014-06-02 17:28:44,238 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=4,bundle_id=5
+2014-06-02 17:28:44,351 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=5
+2014-06-02 17:28:44,356 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=5,bitstream_id=5
+2014-06-02 17:28:44,371 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=4,bundle_id=5
+2014-06-02 17:28:44,374 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=5
+2014-06-02 17:28:44,377 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:28:44,378 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=5
+2014-06-02 17:28:44,387 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:28:44,390 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:28:57,848 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:28:57,853 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:29:01,128 INFO  org.dspace.submit.step.LicenseStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:accept_license:workspace_item_id4
+2014-06-02 17:29:01,135 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=6
+2014-06-02 17:29:01,136 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=6
+2014-06-02 17:29:01,138 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=4,bundle_id=6
+2014-06-02 17:29:01,167 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=6
+2014-06-02 17:29:01,172 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=6,bitstream_id=6
+2014-06-02 17:29:01,190 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=4,bundle_id=6
+2014-06-02 17:29:01,193 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=6
+2014-06-02 17:29:01,204 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=4
+2014-06-02 17:29:01,206 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:29:01,207 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=6
+2014-06-02 17:29:01,219 INFO  org.dspace.submit.step.CompleteStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:submission_complete:Completed submission with id=4
+2014-06-02 17:29:01,220 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:start_workflow:workspace_item_id=4item_id=4collection_id=3
+2014-06-02 17:29:01,226 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:29:01,238 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:delete_workspace_item:workspace_item_id=4item_id=4collection_id=3
+2014-06-02 17:29:01,240 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:archive_item:workflow_item_id=3item_id=4collection_id=3
+2014-06-02 17:29:01,246 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:29:01,257 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_item:collection_id=3,item_id=4
+2014-06-02 17:29:01,261 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=4
+2014-06-02 17:29:01,305 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:install_item:workflow_id=3, item_id=4handle=FIXME
+2014-06-02 17:29:01,510 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/20
+2014-06-02 17:29:01,527 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=3,item_id=4,collection_id=3,old_state=6,new_state=7
+2014-06-02 17:29:01,528 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/20
+2014-06-02 17:29:01,544 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=3,item_id=4,collection_id=3,old_state=4,new_state=7
+2014-06-02 17:29:01,545 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/20
+2014-06-02 17:29:01,561 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=3,item_id=4,collection_id=3,old_state=2,new_state=7
+2014-06-02 17:29:01,561 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/20
+2014-06-02 17:29:01,586 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=3,item_id=4,collection_id=3,old_state=0,new_state=7
+2014-06-02 17:29:01,813 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:29:05,497 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:29:05,498 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 17:29:05,508 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 17:29:05,547 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 17:29:09,027 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 17:29:09,167 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 17:29:11,582 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 17:29:11,691 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 17:29:36,086 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 17:29:43,196 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:29:43,199 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 17:29:43,331 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 17:29:43,544 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 17:29:47,371 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 17:29:47,462 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 17:29:49,350 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 17:29:49,433 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 17:29:52,937 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 17:30:24,385 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:30:24,768 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:30:40,947 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:30:41,337 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:31:10,093 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:31:10,628 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:31:24,736 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:31:31,411 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=4
+2014-06-02 17:31:31,507 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@16e248ae: 3
+2014-06-02 17:31:57,705 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:31:57,707 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_item:item_id=5
+2014-06-02 17:31:57,790 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:31:57,791 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_workspace_item:workspace_item_id=-1item_id=5collection_id=4
+2014-06-02 17:31:57,794 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:31:57,796 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:31:57,803 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:31:57,806 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:31:57,808 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:31:57,810 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:32:08,276 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:32:08,279 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:32:08,411 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:33:08,968 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:33:08,970 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:33:08,988 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:33:08,989 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:33:33,876 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:33:33,880 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:33:40,765 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:33:40,768 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:35:21,392 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:35:21,398 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:35:21,705 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 17:35:36,650 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:35:36,652 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:30,477 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:38:30,481 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:30,505 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:38:30,508 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:44,746 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=7
+2014-06-02 17:38:44,747 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=7
+2014-06-02 17:38:44,751 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=5,bundle_id=7
+2014-06-02 17:38:44,932 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=7
+2014-06-02 17:38:44,938 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=7,bitstream_id=7
+2014-06-02 17:38:44,954 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=5,bundle_id=7
+2014-06-02 17:38:44,958 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=7
+2014-06-02 17:38:44,962 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:44,963 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=7
+2014-06-02 17:38:44,971 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:38:44,974 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:49,700 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:38:49,710 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:52,611 INFO  org.dspace.submit.step.LicenseStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:accept_license:workspace_item_id5
+2014-06-02 17:38:52,616 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=8
+2014-06-02 17:38:52,617 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=8
+2014-06-02 17:38:52,619 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=5,bundle_id=8
+2014-06-02 17:38:52,665 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=8
+2014-06-02 17:38:52,670 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=8,bitstream_id=8
+2014-06-02 17:38:52,684 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=5,bundle_id=8
+2014-06-02 17:38:52,686 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=8
+2014-06-02 17:38:52,700 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=5
+2014-06-02 17:38:52,703 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:52,704 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=8
+2014-06-02 17:38:52,718 INFO  org.dspace.submit.step.CompleteStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:submission_complete:Completed submission with id=5
+2014-06-02 17:38:52,719 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:start_workflow:workspace_item_id=5item_id=5collection_id=4
+2014-06-02 17:38:52,723 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:52,734 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:delete_workspace_item:workspace_item_id=5item_id=5collection_id=4
+2014-06-02 17:38:52,738 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:archive_item:workflow_item_id=4item_id=5collection_id=4
+2014-06-02 17:38:52,743 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:52,751 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_item:collection_id=4,item_id=5
+2014-06-02 17:38:52,755 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=5
+2014-06-02 17:38:52,838 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:install_item:workflow_id=4, item_id=5handle=FIXME
+2014-06-02 17:38:57,982 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/21
+2014-06-02 17:38:58,001 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=4,item_id=5,collection_id=4,old_state=6,new_state=7
+2014-06-02 17:38:58,001 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/21
+2014-06-02 17:38:58,016 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=4,item_id=5,collection_id=4,old_state=4,new_state=7
+2014-06-02 17:38:58,016 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/21
+2014-06-02 17:38:58,027 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=4,item_id=5,collection_id=4,old_state=2,new_state=7
+2014-06-02 17:38:58,027 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/21
+2014-06-02 17:38:58,037 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=4,item_id=5,collection_id=4,old_state=0,new_state=7
+2014-06-02 17:38:58,120 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:39:08,848 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/21
+2014-06-02 17:39:13,262 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/21
+2014-06-02 17:46:06,276 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:46:06,413 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:46:41,991 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:46:42,092 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:47:52,486 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:47:52,612 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:48:15,978 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:48:16,026 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:48:41,355 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 17:48:41,412 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 17:49:48,818 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:49:51,088 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 17:49:51,122 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 17:49:59,929 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 17:50:28,745 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:50:28,892 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:51:26,535 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:51:26,812 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 17:51:36,505 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:51:36,506 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 17:51:36,542 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 17:51:36,583 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 17:51:43,222 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=6
+2014-06-02 17:51:43,223 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_item:item_id=6
+2014-06-02 17:51:43,231 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=6
+2014-06-02 17:51:43,231 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_workspace_item:workspace_item_id=-1item_id=6collection_id=2
+2014-06-02 17:51:43,233 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:51:43,234 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:51:43,237 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:51:43,238 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:51:43,239 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:51:43,240 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:53:56,494 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:53:56,498 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:54:01,317 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:54:01,325 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:54:06,319 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:54:06,329 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:54:06,352 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:54:06,359 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:55:15,881 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:55:15,882 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:56:21,628 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:56:21,632 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:56:21,642 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=6
+2014-06-02 17:56:21,645 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=6
+2014-06-02 17:56:23,921 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:delete_workspace_item:workspace_item_id=6item_id=6collection_id=2
+2014-06-02 17:56:23,927 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:delete_item:item_id=6
+2014-06-02 17:56:23,946 WARN  org.dspace.discovery.IndexEventConsumer @ got null detail on DELETE event, skipping it.
+2014-06-02 17:56:23,949 WARN  org.dspace.discovery.IndexEventConsumer @ MODIFY event, could not get object for ITEM id=6, perhaps it has been deleted.
+2014-06-02 17:56:27,929 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 17:57:43,233 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 17:57:43,336 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 17:58:15,833 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 17:58:15,942 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 17:58:21,699 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-02 17:58:21,790 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-02 17:58:23,736 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 17:58:26,509 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 17:58:35,471 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 17:58:40,204 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 17:58:41,513 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 17:58:41,665 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 17:58:43,640 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 17:58:46,061 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 17:59:43,580 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 17:59:43,689 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 18:00:01,661 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 18:00:02,064 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 18:00:28,861 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 18:00:30,503 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 18:01:32,906 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=2
+2014-06-02 18:01:33,085 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/19 to Index
+2014-06-02 18:02:54,782 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_group:group_id=0
+2014-06-02 18:03:43,693 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_group:group_id=0
+2014-06-02 18:03:51,212 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_group:group_id=0
+2014-06-02 18:05:13,484 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:05:13,485 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:05:13,569 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:05:13,658 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:05:16,959 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:05:17,053 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:05:19,328 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:05:19,392 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:05:21,215 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:05:29,223 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:05:36,962 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:05:37,086 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:05:38,964 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-02 18:05:38,994 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-02 18:05:40,152 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 18:05:41,986 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-02 18:06:15,477 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:06:15,642 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:06:17,409 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:06:17,513 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:06:19,406 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=7
+2014-06-02 18:06:19,407 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_item:item_id=7
+2014-06-02 18:06:19,415 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=7
+2014-06-02 18:06:19,415 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:create_workspace_item:workspace_item_id=-1item_id=7collection_id=3
+2014-06-02 18:06:19,416 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:06:19,417 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:06:19,424 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:06:19,428 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:06:19,429 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:06:19,433 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:06:23,126 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:06:24,762 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:06:47,966 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:06:48,088 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:06:49,511 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=4
+2014-06-02 18:06:49,559 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@16e248ae: 3
+2014-06-02 18:06:51,375 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/21
+2014-06-02 18:06:53,001 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/21
+2014-06-02 18:07:30,513 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 18:07:30,610 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 18:07:47,010 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=5
+2014-06-02 18:07:47,041 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/21 to Index
+2014-06-02 18:08:18,885 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:08:20,217 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:08:20,291 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:08:23,296 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:08:37,114 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 18:08:37,363 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 18:08:52,092 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:08:52,093 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:08:52,098 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:08:52,116 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:08:52,138 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:08:52,141 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:08:56,528 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:08:56,561 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:08:58,033 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:08:58,098 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:09:00,900 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:browse_by_item:
+2014-06-02 18:09:00,908 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:browse:org.dspace.app.xmlui.utils.DSpaceValidity@15600c65
+2014-06-02 18:09:18,718 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-06-02 18:09:18,732 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:authenticate:type=PasswordAuthentication
+2014-06-02 18:09:18,733 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_eperson:eperson_id=3
+2014-06-02 18:09:18,733 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:login:type=explicit
+2014-06-02 18:09:18,914 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:09:18,915 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:09:18,923 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:09:18,949 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:09:20,664 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:09:20,743 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:09:24,494 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:09:24,556 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:09:26,855 INFO  org.dspace.browse.BrowseEngine @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:browse_by_item:
+2014-06-02 18:09:26,875 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:browse:org.dspace.app.xmlui.utils.DSpaceValidity@694b26b1
+2014-06-02 18:20:49,072 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:20:49,074 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:21:46,962 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:21:46,964 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:21:47,273 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:21:55,705 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:21:55,707 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:21:55,812 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:21:55,812 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:04,072 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:22:04,074 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:22:04,205 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:04,206 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:04,206 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:57,296 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:22:57,302 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:22:57,843 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:57,844 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:57,844 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:22:57,867 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:05,686 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:05,688 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:05,815 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:05,816 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:05,816 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:05,825 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:05,827 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-06-02 18:23:10,808 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:10,810 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:10,823 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:10,825 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:18,048 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:18,050 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:25,718 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:25,720 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:30,531 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:30,533 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:49,695 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:49,697 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:23:49,719 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:23:49,722 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:00,449 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=9
+2014-06-02 18:24:00,450 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=9
+2014-06-02 18:24:00,453 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=7,bundle_id=9
+2014-06-02 18:24:00,513 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=9
+2014-06-02 18:24:00,518 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=9,bitstream_id=9
+2014-06-02 18:24:00,529 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=7,bundle_id=9
+2014-06-02 18:24:00,532 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=9
+2014-06-02 18:24:00,535 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:00,536 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=9
+2014-06-02 18:24:00,549 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:24:00,551 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:03,761 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:24:03,763 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:06,453 INFO  org.dspace.submit.step.LicenseStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:accept_license:workspace_item_id7
+2014-06-02 18:24:06,459 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bundle:bundle_id=10
+2014-06-02 18:24:06,460 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bundle:bundle_id=10
+2014-06-02 18:24:06,461 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=7,bundle_id=10
+2014-06-02 18:24:06,478 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:create_bitstream:bitstream_id=10
+2014-06-02 18:24:06,482 INFO  org.dspace.content.Bundle @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bitstream:bundle_id=10,bitstream_id=10
+2014-06-02 18:24:06,494 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_bundle:item_id=7,bundle_id=10
+2014-06-02 18:24:06,496 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=10
+2014-06-02 18:24:06,501 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_workspace_item:workspace_item_id=7
+2014-06-02 18:24:06,503 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:06,503 INFO  org.dspace.content.Bitstream @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_bitstream:bitstream_id=10
+2014-06-02 18:24:06,511 INFO  org.dspace.submit.step.CompleteStep @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:submission_complete:Completed submission with id=7
+2014-06-02 18:24:06,511 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:start_workflow:workspace_item_id=7item_id=7collection_id=3
+2014-06-02 18:24:06,523 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:06,535 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:delete_workspace_item:workspace_item_id=7item_id=7collection_id=3
+2014-06-02 18:24:06,538 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:archive_item:workflow_item_id=5item_id=7collection_id=3
+2014-06-02 18:24:06,542 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:06,555 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:add_item:collection_id=3,item_id=7
+2014-06-02 18:24:06,561 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:update_item:item_id=7
+2014-06-02 18:24:06,589 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:install_item:workflow_id=5, item_id=7handle=FIXME
+2014-06-02 18:24:11,759 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/22
+2014-06-02 18:24:11,773 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=5,item_id=7,collection_id=3,old_state=6,new_state=7
+2014-06-02 18:24:11,773 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/22
+2014-06-02 18:24:11,789 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=5,item_id=7,collection_id=3,old_state=4,new_state=7
+2014-06-02 18:24:11,789 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/22
+2014-06-02 18:24:11,800 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=5,item_id=7,collection_id=3,old_state=2,new_state=7
+2014-06-02 18:24:11,801 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:workflow_item:handle=123456789/22
+2014-06-02 18:24:11,810 INFO  org.dspace.workflow.WorkflowManager @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:advance_workflow:workflow_item_id=5,item_id=7,collection_id=3,old_state=0,new_state=7
+2014-06-02 18:24:11,900 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/22 to Index
+2014-06-02 18:24:17,826 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/22
+2014-06-02 18:24:20,546 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:24:24,860 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/22
+2014-06-02 18:25:06,416 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=7
+2014-06-02 18:25:06,528 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/22 to Index
+2014-06-02 18:25:35,422 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=7
+2014-06-02 18:25:35,537 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/22 to Index
+2014-06-02 18:26:10,326 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=7
+2014-06-02 18:26:10,436 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/22 to Index
+2014-06-02 18:26:34,771 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:26:34,772 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:26:34,827 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:26:34,896 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:26:36,802 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:26:36,957 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:26:38,488 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:26:38,565 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:26:47,367 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:26:49,611 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:27:21,420 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:27:43,372 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 18:27:43,488 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 18:27:53,529 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:27:53,531 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:27:53,600 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-02 18:27:56,649 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-02 18:27:56,741 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-02 18:27:58,070 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_collection:collection_id=3
+2014-06-02 18:27:58,146 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-06-02 18:29:11,296 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_item:handle=123456789/20
+2014-06-02 18:29:19,211 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:update_item:item_id=4
+2014-06-02 18:29:19,320 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Item: 123456789/20 to Index
+2014-06-02 18:29:23,472 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=C56AD6F5A0CC24D71873A8F0C7B82C36:ip_addr=10.21.1.112:view_community_list:
+2014-06-02 18:29:23,477 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-02 18:29:23,662 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3

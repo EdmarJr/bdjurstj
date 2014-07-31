@@ -1,0 +1,12 @@
+2014-05-27 13:55:00,881 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=B4C920DE356288FD28ABF23BB3DF9AAF:ip_addr=192.168.12.1:view_community_list:
+2014-05-27 13:55:00,883 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-27 13:55:00,981 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=B4C920DE356288FD28ABF23BB3DF9AAF:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-27 13:55:01,011 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=B4C920DE356288FD28ABF23BB3DF9AAF:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-27 13:55:01,063 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=B4C920DE356288FD28ABF23BB3DF9AAF:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-27 13:55:01,064 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=B4C920DE356288FD28ABF23BB3DF9AAF:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-27 13:55:16,162 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=68C905CD6ADB2A437F65225A0011D9D1:ip_addr=192.168.12.1:browse_mini:
+2014-05-27 13:55:16,188 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=68C905CD6ADB2A437F65225A0011D9D1:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3
+2014-05-27 13:55:16,189 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=68C905CD6ADB2A437F65225A0011D9D1:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-27 13:55:16,190 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-27 13:55:16,197 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=68C905CD6ADB2A437F65225A0011D9D1:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-27 13:55:16,218 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=68C905CD6ADB2A437F65225A0011D9D1:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/3

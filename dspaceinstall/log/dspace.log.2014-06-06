@@ -1,0 +1,201 @@
+2014-06-06 13:42:43,837 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 13:42:43,881 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 13:42:44,049 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 13:42:44,201 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 13:42:44,584 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 13:42:44,591 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 13:43:41,693 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 13:43:41,696 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 13:43:41,703 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 13:43:41,746 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 13:43:47,940 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 13:43:47,947 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BFEDFA1B318DB2A5E36F5A26D5C71D9:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 15:51:37,685 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=DEE1B2655E75175B48022DE365072CF8:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 15:51:37,685 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 15:51:37,693 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=DEE1B2655E75175B48022DE365072CF8:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 15:51:37,707 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=DEE1B2655E75175B48022DE365072CF8:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:20:31,798 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-06-06 16:20:56,239 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-06-06 16:20:56,403 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-06-06 16:20:56,404 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-06-06 16:20:56,404 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-06-06 16:23:04,486 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.ajp.AjpProcessor.process(AjpProcessor.java:193)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-06-06 16:23:04,498 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-06-06 16:23:04,500 ERROR org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter @ Problem in multipart filter. Unable to create request.
+java.lang.NullPointerException
+	at org.dspace.app.xmlui.cocoon.servlet.multipart.DSpaceMultipartFilter.doFilter(DSpaceMultipartFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1040)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:313)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-06-06 16:23:14,601 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=690F40CA4C1AC9822A7578E8E0CF7606:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,626 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=354C7E746A4931A73552933FB19D279A:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,619 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=415533D0068B586A97CBF4425BD73BEA:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,620 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=A1436BFB57DD7B73F62D70834FF468E3:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,620 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=31FB81FDCD3EB924ED53D3A2500728B3:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,621 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=50164FD761D4D475A8757DADE9B672AD:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,622 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=854B455158B16826F0B7FE5789082EEF:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:14,709 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,710 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,711 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,725 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,726 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,726 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:14,727 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:19,948 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=354C7E746A4931A73552933FB19D279A:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:19,956 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=854B455158B16826F0B7FE5789082EEF:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:19,956 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=690F40CA4C1AC9822A7578E8E0CF7606:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:19,958 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=415533D0068B586A97CBF4425BD73BEA:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:19,958 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=31FB81FDCD3EB924ED53D3A2500728B3:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:19,960 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=50164FD761D4D475A8757DADE9B672AD:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,008 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=A1436BFB57DD7B73F62D70834FF468E3:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,682 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=50164FD761D4D475A8757DADE9B672AD:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,688 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=415533D0068B586A97CBF4425BD73BEA:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,693 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=A1436BFB57DD7B73F62D70834FF468E3:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,715 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=854B455158B16826F0B7FE5789082EEF:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,716 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=31FB81FDCD3EB924ED53D3A2500728B3:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,719 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=354C7E746A4931A73552933FB19D279A:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:20,724 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=690F40CA4C1AC9822A7578E8E0CF7606:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:21,175 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-06-06 16:23:21,279 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-06-06 16:23:32,816 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:32,817 ERROR org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter @ Client closed the connection before file download was complete
+2014-06-06 16:23:33,801 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=5B2CD1ADE4D9C6BA9407C880280AFB32:ip_addr=10.21.2.102:view_community_list:
+2014-06-06 16:23:33,802 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:23:33,814 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5B2CD1ADE4D9C6BA9407C880280AFB32:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:23:33,841 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=5B2CD1ADE4D9C6BA9407C880280AFB32:ip_addr=10.21.2.102:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:29:01,039 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=03927DABEA9B94E8027B7BD2AF9B85AF:ip_addr=10.21.4.90:view_community_list:
+2014-06-06 16:29:01,053 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:29:01,099 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=03927DABEA9B94E8027B7BD2AF9B85AF:ip_addr=10.21.4.90:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:29:01,160 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=03927DABEA9B94E8027B7BD2AF9B85AF:ip_addr=10.21.4.90:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:29:04,472 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=F2B499B7F5D3BEC6AEC228BAC4AE3181:ip_addr=10.21.4.90:view_community_list:
+2014-06-06 16:29:04,473 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:29:04,482 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F2B499B7F5D3BEC6AEC228BAC4AE3181:ip_addr=10.21.4.90:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:29:04,537 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F2B499B7F5D3BEC6AEC228BAC4AE3181:ip_addr=10.21.4.90:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:29:05,483 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 16:29:05,495 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F2B499B7F5D3BEC6AEC228BAC4AE3181:ip_addr=10.21.4.90:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 16:32:31,318 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-06-06 16:32:46,928 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-06-06 16:32:47,159 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-06-06 16:32:47,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-06-06 16:32:47,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-06-06 16:32:47,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-06-06 16:32:47,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-06-06 16:32:47,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-06-06 16:32:47,164 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-06-06 16:32:47,164 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-06-06 16:32:47,165 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-06-06 17:43:55,935 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:view_community_list:
+2014-06-06 17:43:56,022 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 17:44:02,494 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 17:44:02,882 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 17:44:03,056 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2014-06-06 17:44:03,131 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2014-06-06 17:44:26,280 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:view_community:community_id=2
+2014-06-06 17:44:26,392 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2014-06-06 17:44:26,392 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://testedspace.stj.gov.br:8080/solr/statistics
+2014-06-06 17:44:26,392 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/usr/dspaceinstall/config/GeoLiteCity.dat
+2014-06-06 17:44:27,190 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2014-06-06 17:44:27,233 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/agents/example
+2014-06-06 17:44:27,253 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-altavista.txt
+2014-06-06 17:44:27,917 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading panchma.tivra.com:  Unresolvable host name (empty response)
+2014-06-06 17:44:28,934 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2014-06-06 17:44:29,612 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2014-06-06 17:44:29,937 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2014-06-06 17:44:30,469 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  Unresolvable host name (empty response)
+2014-06-06 17:44:30,799 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2014-06-06 17:44:31,002 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2014-06-06 17:44:32,388 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2014-06-06 17:44:32,388 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-non_engines.txt
+2014-06-06 17:44:32,449 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-lycos.txt
+2014-06-06 17:44:32,462 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-excite.txt
+2014-06-06 17:44:32,500 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-infoseek.txt
+2014-06-06 17:44:32,709 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-misc.txt
+2014-06-06 17:44:32,836 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-inktomi.txt
+2014-06-06 17:44:32,856 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /usr/dspaceinstall/config/spiders/iplists.com-google.txt
+2014-06-06 17:44:32,882 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /usr/dspaceinstall/config/spiders/domains/example
+2014-06-06 17:44:34,537 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-06-06 17:47:42,636 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:view_collection:collection_id=2
+2014-06-06 17:47:42,948 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-06-06 17:47:46,984 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=0799D542F963BE4FE5E7917CB30A3CDE:ip_addr=10.21.1.112:view_item:handle=123456789/19
+2014-06-06 20:29:06,089 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=71A288BA3DCEBBC132A525CF1EF7216A:ip_addr=10.21.0.78:view_community_list:
+2014-06-06 20:29:06,092 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-06-06 20:29:06,125 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=71A288BA3DCEBBC132A525CF1EF7216A:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-06-06 20:29:07,110 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=71A288BA3DCEBBC132A525CF1EF7216A:ip_addr=10.21.0.78:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4

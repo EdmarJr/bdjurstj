@@ -1,0 +1,598 @@
+2014-05-30 10:39:07,234 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=EF79E20FD32D02DF277195B99CCE6E13:ip_addr=192.168.12.1:view_community_list:
+2014-05-30 10:39:07,236 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 10:39:07,790 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF79E20FD32D02DF277195B99CCE6E13:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 10:39:07,871 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=EF79E20FD32D02DF277195B99CCE6E13:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:00,124 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2F683F3737325C6CBF873B563CB5BBCA:ip_addr=10.21.2.100:browse_mini:
+2014-05-30 12:21:00,173 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2F683F3737325C6CBF873B563CB5BBCA:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:00,174 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-30 12:21:00,230 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2F683F3737325C6CBF873B563CB5BBCA:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:15,005 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 12:21:15,008 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:21:15,021 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:15,053 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:15,209 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:21:15,219 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:22,340 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:browse_by_item:
+2014-05-30 12:21:22,346 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:22,350 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:22,407 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:browse:org.dspace.app.xmlui.utils.DSpaceValidity@7e9c7cd9
+2014-05-30 12:21:36,259 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-05-30 12:21:36,407 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-30 12:21:36,867 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:update_eperson:eperson_id=3
+2014-05-30 12:21:36,868 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:login:type=explicit
+2014-05-30 12:21:37,458 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 12:21:37,458 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:21:37,464 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:21:37,478 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:35,330 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 12:22:35,582 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:35,584 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 12:22:35,588 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:52,853 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 12:22:52,860 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:22:52,877 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:52,918 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:56,775 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 12:22:56,857 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:22:56,862 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 12:22:56,870 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:23:00,658 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:23:00,666 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:23:03,717 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:23:03,719 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/7
+2014-05-30 12:23:03,722 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/8
+2014-05-30 12:23:03,722 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/9
+2014-05-30 12:23:03,727 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/15
+2014-05-30 12:23:03,727 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/10
+2014-05-30 12:23:03,728 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/14
+2014-05-30 12:23:03,729 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/13
+2014-05-30 12:23:03,734 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/12
+2014-05-30 12:23:03,735 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/11
+2014-05-30 12:23:03,735 INFO  org.dspace.app.xmlui.aspect.discovery.AbstractSearch @ anonymous:session_id=2D400359BF01CBB56454AE69AACEBCD5:ip_addr=10.21.2.100:search:query="null",results=(0,0,0)
+2014-05-30 12:53:25,193 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:browse_mini:
+2014-05-30 12:53:25,362 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:53:25,363 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-30 12:53:25,382 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:53:54,853 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-05-30 12:53:54,965 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:authenticate:type=PasswordAuthentication
+2014-05-30 12:53:54,971 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:update_eperson:eperson_id=3
+2014-05-30 12:53:55,000 INFO  org.dspace.app.webui.servlet.PasswordServlet @ bdjur@stj.jus.br:session_id=2B068B8C2739A1B2B9BAEE55B8B2B09D:ip_addr=10.21.0.35:login:type=explicit
+2014-05-30 12:53:55,018 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ bdjur@stj.jus.br:session_id=2F04CCA7FF6B4265C14B0A0961472E5C:ip_addr=10.21.0.35:view_mydspace:
+2014-05-30 12:54:03,296 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:54:03,297 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:54:03,309 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:54:03,341 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:54:08,932 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=1
+2014-05-30 12:54:09,050 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:54:09,059 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 12:54:09,068 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:54:11,143 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:54:11,145 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:54:11,157 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:54:11,243 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:55:42,582 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:56:02,783 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-05-30 12:56:02,799 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:authenticate:type=PasswordAuthentication
+2014-05-30 12:56:02,818 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_eperson:eperson_id=3
+2014-05-30 12:56:02,819 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:login:type=explicit
+2014-05-30 12:56:03,026 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:56:03,028 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 12:56:03,039 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:56:03,087 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 12:56:16,676 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_community:community_id=2,handle=123456789/4
+2014-05-30 12:56:16,679 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_community:community_id=2
+2014-05-30 12:56:16,698 INFO  org.dspace.event.EventManager @ 
+2014-05-30 12:56:17,788 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/4 to Index
+2014-05-30 12:56:32,663 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_community:community_id=2
+2014-05-30 12:56:32,688 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/4 to Index
+2014-05-30 12:56:45,040 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:56:47,118 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:56:47,260 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:57:02,634 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=2,handle=123456789/5
+2014-05-30 12:57:02,636 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=2
+2014-05-30 12:57:02,882 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=2
+2014-05-30 12:57:02,909 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/5 to Index
+2014-05-30 12:57:11,110 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:57:15,235 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:57:15,349 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:57:22,348 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=3,handle=123456789/6
+2014-05-30 12:57:22,351 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=3
+2014-05-30 12:57:22,356 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=3
+2014-05-30 12:57:22,382 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-30 12:57:28,765 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:57:30,832 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:57:31,064 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:57:39,488 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=4,handle=123456789/7
+2014-05-30 12:57:39,490 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=4
+2014-05-30 12:57:39,494 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=4
+2014-05-30 12:57:39,519 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-30 12:57:45,553 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:57:47,236 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:57:47,363 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:57:57,143 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=5,handle=123456789/8
+2014-05-30 12:57:57,144 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=5
+2014-05-30 12:57:57,146 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=5
+2014-05-30 12:57:57,158 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-30 12:58:04,990 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:58:10,104 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:58:10,192 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:58:17,602 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=6,handle=123456789/9
+2014-05-30 12:58:17,603 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=6
+2014-05-30 12:58:17,608 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=6
+2014-05-30 12:58:17,634 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-30 12:58:24,059 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:58:33,084 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:58:33,175 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:58:39,011 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=7,handle=123456789/10
+2014-05-30 12:58:39,012 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=7
+2014-05-30 12:58:39,016 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=7
+2014-05-30 12:58:39,041 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-30 12:58:45,720 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:58:47,350 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:58:47,448 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:58:54,842 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=8,handle=123456789/11
+2014-05-30 12:58:54,843 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=8
+2014-05-30 12:58:54,844 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=8
+2014-05-30 12:58:54,856 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-30 12:59:03,156 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:59:05,035 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:59:05,202 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:59:12,745 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=9,handle=123456789/12
+2014-05-30 12:59:12,746 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=9
+2014-05-30 12:59:12,749 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=9
+2014-05-30 12:59:12,772 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-30 12:59:21,341 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:59:26,405 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:59:26,487 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:59:35,826 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=10,handle=123456789/13
+2014-05-30 12:59:35,827 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=10
+2014-05-30 12:59:35,831 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=10
+2014-05-30 12:59:35,851 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-30 12:59:38,896 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 12:59:44,829 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 12:59:44,919 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 12:59:56,648 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_collection:collection_id=11,handle=123456789/14
+2014-05-30 12:59:56,649 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:add_collection:community_id=2,collection_id=11
+2014-05-30 12:59:56,653 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=11
+2014-05-30 12:59:56,674 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/14 to Index
+2014-05-30 12:59:58,921 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 13:00:05,836 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:00:06,018 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@6dddd418: 3
+2014-05-30 13:00:32,902 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=2
+2014-05-30 13:00:32,904 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=2
+2014-05-30 13:00:32,908 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=3
+2014-05-30 13:00:32,928 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-30 13:00:37,673 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=2
+2014-05-30 13:00:41,720 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=3
+2014-05-30 13:00:41,721 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=3
+2014-05-30 13:00:41,725 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=3
+2014-05-30 13:00:41,745 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-30 13:00:43,196 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=3
+2014-05-30 13:00:49,550 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=4
+2014-05-30 13:00:49,551 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=4
+2014-05-30 13:00:49,555 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=3
+2014-05-30 13:00:49,578 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-30 13:00:54,046 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=4
+2014-05-30 13:01:51,329 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=5
+2014-05-30 13:01:51,337 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=5
+2014-05-30 13:01:51,361 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/6 to Index
+2014-05-30 13:02:32,284 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 13:02:32,309 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:02:32,322 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:02:32,356 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:02:32,409 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:02:32,419 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:03:06,287 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:03:06,453 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:03:11,067 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:03:11,098 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:03:42,420 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:03:42,421 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:03:42,430 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:03:42,456 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:05,604 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=F64EB3C20505EE5DF81E0D796398AE3D:ip_addr=10.21.2.100:browse_mini:
+2014-05-30 13:04:05,620 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F64EB3C20505EE5DF81E0D796398AE3D:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:05,620 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-30 13:04:05,628 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=F64EB3C20505EE5DF81E0D796398AE3D:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:09,761 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:04:09,761 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:04:09,765 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:09,778 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:17,874 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=2
+2014-05-30 13:04:17,970 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:04:27,111 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_collection:collection_id=2
+2014-05-30 13:04:27,193 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@b27f5d96: 3
+2014-05-30 13:04:31,718 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_collection:collection_id=3
+2014-05-30 13:04:31,782 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:04:55,226 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:04:55,227 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:04:55,235 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:04:55,259 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:05:10,707 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-05-30 13:05:10,724 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:authenticate:type=PasswordAuthentication
+2014-05-30 13:05:10,726 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:update_eperson:eperson_id=3
+2014-05-30 13:05:10,726 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:login:type=explicit
+2014-05-30 13:05:10,975 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:05:10,976 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:05:10,984 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:05:11,008 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:05:20,632 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=2
+2014-05-30 13:05:20,713 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:05:22,313 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_collection:collection_id=3
+2014-05-30 13:05:22,385 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:05:24,964 INFO  org.dspace.browse.BrowseEngine @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:browse_by_item:
+2014-05-30 13:05:24,975 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.ConfigurableBrowse @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:browse:org.dspace.app.xmlui.utils.DSpaceValidity@21b90fda
+2014-05-30 13:07:07,308 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:07:07,309 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:07:07,314 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:07,327 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:19,120 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:create_community:community_id=3,handle=123456789/15
+2014-05-30 13:07:19,123 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:update_community:community_id=3
+2014-05-30 13:07:19,141 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/15 to Index
+2014-05-30 13:07:20,507 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:07:20,509 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:07:20,518 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:20,542 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:20,589 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:07:20,598 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:23,679 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:07:23,680 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:07:23,690 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:23,712 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:33,366 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 13:07:33,443 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:33,451 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 13:07:33,463 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:56,209 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:create_collection:collection_id=12,handle=123456789/16
+2014-05-30 13:07:56,210 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:add_collection:community_id=1,collection_id=12
+2014-05-30 13:07:56,214 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:update_collection:collection_id=12
+2014-05-30 13:07:56,235 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/16 to Index
+2014-05-30 13:07:57,582 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:07:57,584 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:07:57,593 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:57,633 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:59,803 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 13:07:59,887 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:07:59,890 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 13:07:59,899 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:08:17,976 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:create_collection:collection_id=13,handle=123456789/17
+2014-05-30 13:08:17,978 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:add_collection:community_id=1,collection_id=13
+2014-05-30 13:08:17,982 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:update_collection:collection_id=13
+2014-05-30 13:08:18,002 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/17 to Index
+2014-05-30 13:08:18,499 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:08:18,573 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:08:19,203 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:08:19,204 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:08:19,216 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:08:19,248 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:08:20,798 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 13:08:20,875 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:08:20,886 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 13:08:20,901 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:01,094 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:create_collection:collection_id=14,handle=123456789/18
+2014-05-30 13:09:01,097 INFO  org.dspace.content.Community @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:add_collection:community_id=1,collection_id=14
+2014-05-30 13:09:01,103 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:update_collection:collection_id=14
+2014-05-30 13:09:01,135 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/18 to Index
+2014-05-30 13:09:02,242 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:09:02,243 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:09:02,260 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:02,302 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:08,863 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community:community_id=1
+2014-05-30 13:09:09,044 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:09,051 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@276: 3
+2014-05-30 13:09:09,061 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:50,171 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:09:50,316 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:09:51,645 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:09:51,646 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:09:51,661 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:09:51,699 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:10:03,230 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=4
+2014-05-30 13:10:03,308 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@91ad981c: 3
+2014-05-30 13:10:15,530 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=6
+2014-05-30 13:10:15,531 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=6
+2014-05-30 13:10:15,538 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=4
+2014-05-30 13:10:15,558 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-30 13:10:17,724 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=6
+2014-05-30 13:10:19,862 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=7
+2014-05-30 13:10:19,863 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=7
+2014-05-30 13:10:19,868 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=4
+2014-05-30 13:10:19,888 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-30 13:10:21,046 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=7
+2014-05-30 13:10:28,515 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=8
+2014-05-30 13:10:28,516 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=8
+2014-05-30 13:10:28,520 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=4
+2014-05-30 13:10:28,539 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/7 to Index
+2014-05-30 13:10:29,935 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=8
+2014-05-30 13:10:35,903 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=4
+2014-05-30 13:10:35,972 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@16e248ae: 3
+2014-05-30 13:10:38,116 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:10:38,193 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:10:42,157 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=4
+2014-05-30 13:10:42,233 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@16e248ae: 3
+2014-05-30 13:11:21,533 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=4
+2014-05-30 13:11:21,564 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@16e248ae: 3
+2014-05-30 13:11:29,146 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:11:29,180 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:11:32,729 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:11:32,760 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:11:49,993 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:11:50,080 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:11:52,961 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:11:53,139 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:11:55,372 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=3
+2014-05-30 13:11:55,448 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1c1e0c04: 3
+2014-05-30 13:12:09,759 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 13:12:09,760 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:12:09,771 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:12:09,797 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:12:11,379 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:12:11,438 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:12:30,333 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=2
+2014-05-30 13:12:30,402 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@b27f5d96: 3
+2014-05-30 13:13:07,946 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=9
+2014-05-30 13:13:07,948 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=9
+2014-05-30 13:13:07,951 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=2
+2014-05-30 13:13:07,973 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/5 to Index
+2014-05-30 13:13:10,704 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=9
+2014-05-30 13:13:13,224 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=10
+2014-05-30 13:13:13,226 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=10
+2014-05-30 13:13:13,230 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=2
+2014-05-30 13:13:13,262 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/5 to Index
+2014-05-30 13:13:15,430 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=10
+2014-05-30 13:13:22,215 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=11
+2014-05-30 13:13:22,216 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=11
+2014-05-30 13:13:22,220 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=2
+2014-05-30 13:13:22,239 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/5 to Index
+2014-05-30 13:13:23,715 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=11
+2014-05-30 13:13:31,270 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=2
+2014-05-30 13:13:31,339 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-05-30 13:13:33,186 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:13:33,268 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:13:41,031 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=5
+2014-05-30 13:13:41,105 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3dcb59d3: 3
+2014-05-30 13:13:48,405 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=12
+2014-05-30 13:13:48,406 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=12
+2014-05-30 13:13:48,409 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=5
+2014-05-30 13:13:48,431 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-30 13:13:50,149 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=12
+2014-05-30 13:13:54,863 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=13
+2014-05-30 13:13:54,863 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=13
+2014-05-30 13:13:54,865 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=5
+2014-05-30 13:13:54,874 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-30 13:13:57,240 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=13
+2014-05-30 13:14:02,840 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=14
+2014-05-30 13:14:02,841 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=14
+2014-05-30 13:14:02,842 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=5
+2014-05-30 13:14:02,854 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/8 to Index
+2014-05-30 13:14:04,036 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=14
+2014-05-30 13:14:45,615 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:14:45,616 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:14:45,630 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:14:45,684 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:14:53,033 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=5
+2014-05-30 13:14:53,102 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@b1226862: 3
+2014-05-30 13:14:56,385 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:14:56,481 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:14:59,069 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=6
+2014-05-30 13:14:59,142 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@2845202f: 3
+2014-05-30 13:15:11,326 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=15
+2014-05-30 13:15:11,327 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=15
+2014-05-30 13:15:11,331 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=6
+2014-05-30 13:15:11,352 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-30 13:15:12,982 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=15
+2014-05-30 13:15:17,256 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=16
+2014-05-30 13:15:17,257 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=16
+2014-05-30 13:15:17,259 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=6
+2014-05-30 13:15:17,272 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-30 13:15:18,620 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=16
+2014-05-30 13:15:23,909 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=17
+2014-05-30 13:15:23,909 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=17
+2014-05-30 13:15:23,912 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=6
+2014-05-30 13:15:23,927 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/9 to Index
+2014-05-30 13:15:25,158 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=17
+2014-05-30 13:15:35,366 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=6
+2014-05-30 13:15:35,437 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@95e0a455: 3
+2014-05-30 13:15:38,458 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:15:38,616 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:15:41,683 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=7
+2014-05-30 13:15:41,752 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@eebca4dd: 3
+2014-05-30 13:16:00,186 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=18
+2014-05-30 13:16:00,188 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=18
+2014-05-30 13:16:00,192 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=7
+2014-05-30 13:16:00,214 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-30 13:16:01,570 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=18
+2014-05-30 13:16:03,902 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=19
+2014-05-30 13:16:03,903 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=19
+2014-05-30 13:16:03,906 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=7
+2014-05-30 13:16:03,924 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-30 13:16:05,141 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=19
+2014-05-30 13:16:08,602 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=20
+2014-05-30 13:16:08,603 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=20
+2014-05-30 13:16:08,606 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=7
+2014-05-30 13:16:08,617 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/10 to Index
+2014-05-30 13:16:09,843 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=20
+2014-05-30 13:16:49,758 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=7
+2014-05-30 13:16:49,794 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@da318065: 3
+2014-05-30 13:17:06,334 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 13:17:06,379 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 13:17:08,891 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 13:17:08,965 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@1109d5de: 3
+2014-05-30 13:17:15,761 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=21
+2014-05-30 13:17:15,762 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=21
+2014-05-30 13:17:15,766 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=8
+2014-05-30 13:17:15,787 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-30 13:17:17,093 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=21
+2014-05-30 13:17:19,832 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=22
+2014-05-30 13:17:19,832 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=22
+2014-05-30 13:17:19,835 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=8
+2014-05-30 13:17:19,851 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-30 13:17:21,188 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=22
+2014-05-30 13:17:41,208 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:create_group:group_id=23
+2014-05-30 13:17:41,209 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=23
+2014-05-30 13:17:41,212 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_collection:collection_id=8
+2014-05-30 13:17:41,229 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-30 13:17:42,726 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:update_group:group_id=23
+2014-05-30 13:18:05,932 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=3C4BB93EDCBB494EC2B71307321FF991:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 13:18:06,005 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 13:18:15,844 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:18:15,845 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:18:15,863 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:18:15,902 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:41:51,499 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 13:41:51,500 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 13:41:51,542 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 13:41:51,571 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=FFBE541AC52FEC18EF2E698210F4B72C:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:13:42,392 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=64E93EC7F07E3251D1AE0690EB4F5553:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 14:13:42,393 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 14:13:42,403 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=64E93EC7F07E3251D1AE0690EB4F5553:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:13:42,430 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=64E93EC7F07E3251D1AE0690EB4F5553:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:13:42,608 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 14:13:42,609 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 14:13:42,623 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:13:42,653 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:14:06,668 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:view_community_list:
+2014-05-30 14:14:06,668 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 14:14:06,672 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:14:06,681 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=551F6FA035F3EE09FFD8345D0B1F085B:ip_addr=10.21.2.100:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:42:05,214 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 14:42:05,250 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 14:42:08,516 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 14:42:08,630 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 14:42:10,388 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=5
+2014-05-30 14:42:10,460 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@b1226862: 3
+2014-05-30 14:42:15,654 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 14:42:15,722 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 14:42:42,009 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:authenticate:attempting password auth of user=bdjur@stj.jus.br
+2014-05-30 14:42:42,024 INFO  org.dspace.authenticate.PasswordAuthentication @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:authenticate:type=PasswordAuthentication
+2014-05-30 14:42:42,026 INFO  org.dspace.eperson.EPerson @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_eperson:eperson_id=3
+2014-05-30 14:42:42,041 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:login:type=explicit
+2014-05-30 14:42:42,271 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 14:42:42,272 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 14:42:42,285 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:42:42,317 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:50:43,910 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 14:50:44,097 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 14:50:50,500 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 14:50:50,650 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 14:51:14,026 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community_list:
+2014-05-30 14:51:14,027 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 14:51:14,036 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:51:14,059 ERROR org.dspace.discovery.SolrServiceImpl @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 14:51:15,855 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 14:51:15,928 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 14:51:28,707 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=9
+2014-05-30 14:51:28,737 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@213b94f9: 3
+2014-05-30 15:11:05,782 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 15:11:05,872 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 15:13:22,896 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=9
+2014-05-30 15:13:22,994 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@213b94f9: 3
+2014-05-30 15:13:30,420 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=24
+2014-05-30 15:13:30,421 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=24
+2014-05-30 15:13:30,425 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=9
+2014-05-30 15:13:30,468 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-30 15:13:33,456 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=24
+2014-05-30 15:13:37,701 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=25
+2014-05-30 15:13:37,702 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=25
+2014-05-30 15:13:37,707 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=9
+2014-05-30 15:13:37,732 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-30 15:13:39,028 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=25
+2014-05-30 15:13:48,466 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=26
+2014-05-30 15:13:48,467 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=26
+2014-05-30 15:13:48,470 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=9
+2014-05-30 15:13:48,488 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/12 to Index
+2014-05-30 15:13:50,146 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=26
+2014-05-30 15:14:02,563 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=9
+2014-05-30 15:14:02,622 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@3536d02d: 3
+2014-05-30 15:14:09,759 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 15:14:09,853 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 15:14:12,343 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=10
+2014-05-30 15:14:12,474 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@230f2d81: 3
+2014-05-30 15:14:20,861 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=27
+2014-05-30 15:14:20,863 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=27
+2014-05-30 15:14:20,867 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=10
+2014-05-30 15:14:20,887 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-30 15:14:23,204 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=27
+2014-05-30 15:14:25,434 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=28
+2014-05-30 15:14:25,435 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=28
+2014-05-30 15:14:25,439 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=10
+2014-05-30 15:14:25,460 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-30 15:14:26,598 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=28
+2014-05-30 15:14:33,773 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=29
+2014-05-30 15:14:33,774 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=29
+2014-05-30 15:14:33,777 INFO  org.dspace.content.Collection @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_collection:collection_id=10
+2014-05-30 15:14:33,798 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/13 to Index
+2014-05-30 15:14:35,067 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=29
+2014-05-30 15:16:16,327 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=10
+2014-05-30 15:16:16,429 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@f095eee0: 3
+2014-05-30 15:16:18,964 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 15:16:19,050 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 15:16:22,563 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 15:16:22,670 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 15:16:50,389 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_group:group_id=30
+2014-05-30 15:16:50,399 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=30
+2014-05-30 15:16:50,420 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/11 to Index
+2014-05-30 15:17:12,862 INFO  org.dspace.eperson.Group @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_group:group_id=30
+2014-05-30 15:17:28,800 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=8
+2014-05-30 15:17:28,890 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@a1801053: 3
+2014-05-30 15:17:31,811 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 15:17:31,900 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 15:37:24,564 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=2
+2014-05-30 15:37:24,644 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-05-30 15:39:59,051 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ anonymous:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_community_list:
+2014-05-30 15:39:59,079 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 15:39:59,093 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:39:59,116 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:39:59,165 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 15:39:59,172 ERROR org.dspace.discovery.SolrServiceImpl @ anonymous:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:08,861 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-30 15:40:08,877 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:authenticate:type=PasswordAuthentication
+2014-05-30 15:40:08,879 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:update_eperson:eperson_id=1
+2014-05-30 15:40:08,879 INFO  org.dspace.app.xmlui.utils.AuthenticationUtil @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:login:type=explicit
+2014-05-30 15:40:09,129 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_community_list:
+2014-05-30 15:40:09,130 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 15:40:09,139 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:09,164 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:15,039 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:19,328 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_item:handle=123456789/3
+2014-05-30 15:40:21,984 INFO  org.dspace.app.xmlui.aspect.artifactbrowser.CommunityBrowser @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_community_list:
+2014-05-30 15:40:21,985 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, null: 3
+2014-05-30 15:40:21,994 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:22,021 ERROR org.dspace.discovery.SolrServiceImpl @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:Error while retrieving DSpace object from discovery index:Handle\colon; 123456789/4
+2014-05-30 15:40:24,389 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_community:community_id=2
+2014-05-30 15:40:24,479 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 15:40:26,786 INFO  org.dspace.usage.LoggerUsageEventListener @ edmarfagunde@gmail.com:session_id=8BB9FD899A9C688F2261B321E343FC83:ip_addr=192.168.12.1:view_collection:collection_id=2
+2014-05-30 15:40:26,910 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-05-30 16:05:21,132 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_community:community_id=2
+2014-05-30 16:05:21,210 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Community@277: 3
+2014-05-30 16:05:25,651 INFO  org.dspace.usage.LoggerUsageEventListener @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:view_collection:collection_id=2
+2014-05-30 16:05:25,681 INFO  org.dspace.app.xmlui.aspect.discovery.SidebarFacetsTransformer @ facets for scope, org.dspace.content.Collection@ed465595: 3
+2014-05-30 16:05:28,199 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_item:item_id=2
+2014-05-30 16:05:28,200 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_item:item_id=2
+2014-05-30 16:05:28,210 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:update_item:item_id=2
+2014-05-30 16:05:28,218 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:ip_addr=10.21.0.35:create_workspace_item:workspace_item_id=-1item_id=2collection_id=2
+2014-05-30 16:05:28,536 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:05:28,538 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:05:28,568 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:05:28,569 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:05:28,571 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:05:28,572 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:06:09,857 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:06:09,858 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:06:10,110 WARN  org.dspace.app.xmlui.cocoon.DSpaceI18NTransformer @ Translation not found for attribute title in element <img>
+2014-05-30 16:06:43,342 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:06:43,344 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:06:43,370 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:06:43,374 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:06:50,770 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:06:50,772 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:06:57,245 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:06:57,248 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:07:05,528 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:07:05,532 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:07:12,274 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:07:12,280 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:07:36,629 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:07:36,632 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2
+2014-05-30 16:07:36,649 INFO  org.dspace.content.WorkspaceItem @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_workspace_item:workspace_item_id=2
+2014-05-30 16:07:36,652 INFO  org.dspace.content.Item @ bdjur@stj.jus.br:session_id=D7F885458663C202F947159711702887:update_item:item_id=2

@@ -1,0 +1,99 @@
+2014-05-15 14:53:28,830 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/usr/dspaceinstall/config/dspace.cfg
+2014-05-15 14:53:28,957 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2014-05-15 14:53:28,960 INFO  org.dspace.core.ConfigurationManager @ Loading: /usr/dspaceinstall/config/log4j.properties
+2014-05-15 14:53:41,686 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 14:54:48,619 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=1
+2014-05-15 14:54:48,628 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.6
+2014-05-15 14:54:48,753 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=1
+2014-05-15 14:54:48,816 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2014-05-15 14:54:48,819 INFO  org.dspace.event.EventManager @ 
+2014-05-15 15:06:18,880 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:07:53,131 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:07:53,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:07:53,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:07:53,758 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:07:53,770 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:07:53,770 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:07:53,770 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:07:53,770 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:07:53,771 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:07:53,771 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 15:08:39,582 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:08:55,504 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:08:55,802 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:08:55,806 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:08:55,806 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:08:55,806 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:08:55,806 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:08:55,806 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:08:55,807 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:08:55,807 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:08:55,807 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 15:35:21,789 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:35:41,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:35:42,180 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:35:42,180 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:35:42,180 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:35:42,183 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:35:42,184 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:35:42,184 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:35:42,184 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:35:42,184 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:35:42,186 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 15:44:33,277 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:44:44,671 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:44:45,336 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:44:45,337 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:44:45,337 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:44:45,341 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 15:47:35,949 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:47:50,289 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:47:51,187 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:47:51,195 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:47:51,196 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:47:51,196 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 15:50:40,521 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 15:51:00,157 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 15:51:00,730 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 15:51:00,731 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 16:02:52,188 INFO  net.sf.ehcache.util.UpdateChecker @ New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]
+2014-05-15 16:03:18,743 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /usr/dspaceinstall/config/xmlui.xconf
+2014-05-15 16:03:19,260 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2014-05-15 16:03:19,260 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2014-05-15 16:03:19,261 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2014-05-15 16:03:19,268 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2014-05-15 16:05:12,123 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:browse_mini:
+2014-05-15 16:05:13,390 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-15 16:08:35,353 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:browse_mini:
+2014-05-15 16:08:35,653 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-15 16:08:47,807 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:browse_mini:
+2014-05-15 16:08:47,818 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2014-05-15 16:10:01,543 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:authenticate:attempting password auth of user=edmarfagunde@gmail.com
+2014-05-15 16:10:01,928 INFO  org.dspace.authenticate.PasswordAuthentication @ edmarfagunde@gmail.com:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:authenticate:type=PasswordAuthentication
+2014-05-15 16:10:02,012 INFO  org.dspace.eperson.EPerson @ edmarfagunde@gmail.com:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:update_eperson:eperson_id=1
+2014-05-15 16:10:02,096 INFO  org.dspace.app.webui.servlet.PasswordServlet @ edmarfagunde@gmail.com:session_id=E5D87D101D6DE763BDA69D1D8B902A5C:ip_addr=10.21.2.50:login:type=explicit
+2014-05-15 16:10:02,112 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ edmarfagunde@gmail.com:session_id=591707B15A8D729B6FE5D1027BE909AF:ip_addr=10.21.2.50:view_mydspace:
+2014-05-15 16:12:32,989 INFO  org.dspace.browse.BrowseEngine @ edmarfagunde@gmail.com:session_id=591707B15A8D729B6FE5D1027BE909AF:ip_addr=10.21.2.50:browse_mini:
+2014-05-15 16:12:33,013 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
